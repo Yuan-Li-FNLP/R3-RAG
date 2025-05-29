@@ -1,0 +1,1 @@
+tensorboard --logdir "tensorboard_log_path" --port 6010 --host 0.0.0.0

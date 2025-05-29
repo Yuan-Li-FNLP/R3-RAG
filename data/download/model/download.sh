@@ -1,0 +1,1 @@
+huggingface-cli download --resume-download "Model_Name" --local-dir "Local_Path" --local-dir-use-symlinks False

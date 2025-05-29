@@ -1,0 +1,1 @@
+huggingface-cli download "Dataset_Name" --repo-type dataset --local-dir "Local_Path"
