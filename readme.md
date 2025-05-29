@@ -9,7 +9,7 @@
 R3-RAG is a novel framework that uses **R**einforcement learning to teach LLMs how to **R**eason and **R**etrieve step by step. Unlike traditional RAG methods that rely on human-designed workflows, R3-RAG enables models to autonomously learn optimal reasoning-retrieval strategies through reinforcement learning with both outcome and process rewards.
 
 <div align="center">
-<img src="TrainingPipeline.png" width="90%" alt="R3-RAG Training Pipeline">
+<img src="images/TrainingPipeline.png" width="90%" alt="R3-RAG Training Pipeline">
 </div>
 
 ### Key Features
