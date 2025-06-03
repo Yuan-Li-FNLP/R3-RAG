@@ -1,6 +1,6 @@
 # R3-RAG: Learning Step-by-Step Reasoning and Retrieval for LLMs via Reinforcement Learning
 
-[![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg)](ARXIV_LINK_TO_BE_ADDED)
+[![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg)](https://arxiv.org/abs/2505.23794)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/release/python-380/)
 [![License](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
@@ -128,11 +128,14 @@ All models and datasets are available on [Hugging Face](https://huggingface.co/Y
 If you find our work helpful, please consider citing:
 
 ```bibtex
-@article{r3rag2024,
-  title={R3-RAG: Learning Step-by-Step Reasoning and Retrieval for LLMs via Reinforcement Learning},
-  author={Li, Yuan and Luo, Qi and Li, Xiaonan and Li, Bufan and Cheng, Qinyuan and Wang, Bo and Zheng, Yining and Wang, Yuxin and Yin, Zhangyue and Qiu, Xipeng},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
-  year={2024}
+@misc{li2025r3raglearningstepbystepreasoning,
+      title={R3-RAG: Learning Step-by-Step Reasoning and Retrieval for LLMs via Reinforcement Learning}, 
+      author={Yuan Li and Qi Luo and Xiaonan Li and Bufan Li and Qinyuan Cheng and Bo Wang and Yining Zheng and Yuxin Wang and Zhangyue Yin and Xipeng Qiu},
+      year={2025},
+      eprint={2505.23794},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2505.23794}, 
 }
 ```
 
