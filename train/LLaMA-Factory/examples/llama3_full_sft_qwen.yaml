@@ -1,0 +1,41 @@
+### model
+model_name_or_path: "your_Qwen2.5-7B_model_path"
+trust_remote_code: true
+
+### method
+stage: sft
+do_train: true
+finetuning_type: full
+deepspeed: deepspeed/ds_z3_config.json  # choices: [ds_z0_config.json, ds_z2_config.json, ds_z3_config.json]
+
+### dataset
+dataset: 2wikimultihopqa_train, hotpotqa_train, musique_train # identity, alpaca_en_demo
+template: qwen
+cutoff_len: 4096 # 输入的最大 token 数，超过该长度会被截断。
+# max_samples: 1000 # 每个数据集的最大样本数：设置后，每个数据集的样本数将被截断至指定的 max_samples。
+overwrite_cache: true # 是否覆盖缓存的训练和评估数据集。
+preprocessing_num_workers: 16 # 预处理时使用的进程数量。
+
+### output
+output_dir: "your_output_path"
+logging_steps: 2
+save_steps: 200
+plot_loss: true
+overwrite_output_dir: true
+report_to: tensorboard
+
+### train
+per_device_train_batch_size: 4
+gradient_accumulation_steps: 4
+learning_rate: 7.0e-6 # 7e-7几乎不收敛，2.0e-6loss降的很慢，7e-6偶然有一次梯度爆炸
+num_train_epochs: 3.0
+lr_scheduler_type: cosine
+warmup_ratio: 0.1
+bf16: true
+ddp_timeout: 180000000
+
+### eval
+val_size: 0.1
+per_device_eval_batch_size: 1
+eval_strategy: steps
+eval_steps: 500

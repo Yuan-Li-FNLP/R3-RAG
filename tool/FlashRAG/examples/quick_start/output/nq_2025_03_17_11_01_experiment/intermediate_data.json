@@ -1,0 +1,417 @@
+[
+    {
+        "id": "test_0",
+        "question": "who got the first nobel prize in physics",
+        "golden_answers": [
+            "Wilhelm Conrad Röntgen"
+        ],
+        "output": {
+            "retrieval_result": [
+                {
+                    "id": 3027,
+                    "title": "Who was the first Indian to win the Nobel Prize in Physics?",
+                    "contents": "Who was the first Indian to win the Nobel Prize in Physics?\nC. V. Raman was the first Indian to win the Nobel Prize in Physics."
+                }
+            ],
+            "prompt": "<|im_start|>system\nAnswer the question based on the given document.                     Only give me the answer and do not output any other words.                     \nThe following are given documents.\n\nDoc 1(Title: Who was the first Indian to win the Nobel Prize in Physics?) C. V. Raman was the first Indian to win the Nobel Prize in Physics.\n<|im_end|>\n<|im_start|>user\nQuestion: who got the first nobel prize in physics\nAnswer:<|im_end|>\n<|im_start|>assistant\n",
+            "pred": "C. V. Raman",
+            "metric_score": {
+                "em": 0.0,
+                "f1": 0,
+                "acc": 0.0
+            }
+        }
+    },
+    {
+        "id": "test_1",
+        "question": "when is the next deadpool movie being released",
+        "golden_answers": [
+            "May 18, 2018"
+        ],
+        "output": {
+            "retrieval_result": [
+                {
+                    "id": 9443,
+                    "title": "Tell me the name, release date, and director of the latest Spiderman movie.?",
+                    "contents": "Tell me the name, release date, and director of the latest Spiderman movie.?\nThe latest Spiderman movie is Spider-Man: Into the Spider-Verse, released in 2018 and directed by Bob Persichetti, Peter Ramsey, and Rodney Rothman."
+                }
+            ],
+            "prompt": "<|im_start|>system\nAnswer the question based on the given document.                     Only give me the answer and do not output any other words.                     \nThe following are given documents.\n\nDoc 1(Title: Tell me the name, release date, and director of the latest Spiderman movie.?) The latest Spiderman movie is Spider-Man: Into the Spider-Verse, released in 2018 and directed by Bob Persichetti, Peter Ramsey, and Rodney Rothman.\n<|im_end|>\n<|im_start|>user\nQuestion: when is the next deadpool movie being released\nAnswer:<|im_end|>\n<|im_start|>assistant\n",
+            "pred": "Document does not provide information about the next Deadpool movie release date.",
+            "metric_score": {
+                "em": 0.0,
+                "f1": 0,
+                "acc": 0.0
+            }
+        }
+    },
+    {
+        "id": "test_2",
+        "question": "which mode is used for short wave broadcast service",
+        "golden_answers": [
+            "Olivia",
+            "MFSK"
+        ],
+        "output": {
+            "retrieval_result": [
+                {
+                    "id": 14825,
+                    "title": "Explain the working principle of MediaTek Dimensity?",
+                    "contents": "Explain the working principle of MediaTek Dimensity?\nMediaTek Dimensity is an integrated wireless 5G modem-to-antenna 5G system-on-chip (SoC) developed by MediaTek. It features an octa-core 64-bit ARM Cortex-A77/A55 CPU cluster and Imagination Technologies IMG9X-MP6 GPU, both of which are 5G-integrated and have 2.0GHz operating frequency. The integrated MediaTek 5G modem supports 2G, 3G, 4G and 5G networks, and handles up to 5Gbps download speeds and 2.5Gbps upload speeds. The chip also supports up to 8K Ultra HD video capturing and playback, as well as multi-camera systems. Additionally, MediaTek Dimensity also boasts low power consumption and machine learning technology."
+                }
+            ],
+            "prompt": "<|im_start|>system\nAnswer the question based on the given document.                     Only give me the answer and do not output any other words.                     \nThe following are given documents.\n\nDoc 1(Title: Explain the working principle of MediaTek Dimensity?) MediaTek Dimensity is an integrated wireless 5G modem-to-antenna 5G system-on-chip (SoC) developed by MediaTek. It features an octa-core 64-bit ARM Cortex-A77/A55 CPU cluster and Imagination Technologies IMG9X-MP6 GPU, both of which are 5G-integrated and have 2.0GHz operating frequency. The integrated MediaTek 5G modem supports 2G, 3G, 4G and 5G networks, and handles up to 5Gbps download speeds and 2.5Gbps upload speeds. The chip also supports up to 8K Ultra HD video capturing and playback, as well as multi-camera systems. Additionally, MediaTek Dimensity also boasts low power consumption and machine learning technology.\n<|im_end|>\n<|im_start|>user\nQuestion: which mode is used for short wave broadcast service\nAnswer:<|im_end|>\n<|im_start|>assistant\n",
+            "pred": "Based on the provided document, there is no information about a mode used for short wave broadcast service. Therefore, I cannot provide an answer from the given text.",
+            "metric_score": {
+                "em": 0.0,
+                "f1": 0,
+                "acc": 0.0
+            }
+        }
+    },
+    {
+        "id": "test_3",
+        "question": "the south west wind blows across nigeria between",
+        "golden_answers": [
+            "till September"
+        ],
+        "output": {
+            "retrieval_result": [
+                {
+                    "id": 8993,
+                    "title": "Describe the weather in the following city: Lagos, Nigeria?",
+                    "contents": "Describe the weather in the following city: Lagos, Nigeria?\nThe weather in Lagos, Nigeria is usually hot, humid, and rainy. It is typically warm year round, with temperatures ranging from the high 70s to the mid-80s (Fahrenheit). The rainy season begins in April and ends in October. During this time, temperatures will be slightly cooler and there could be significant rainfall on some days. From November to March, the climate is much drier, but temperatures will remain warm."
+                }
+            ],
+            "prompt": "<|im_start|>system\nAnswer the question based on the given document.                     Only give me the answer and do not output any other words.                     \nThe following are given documents.\n\nDoc 1(Title: Describe the weather in the following city: Lagos, Nigeria?) The weather in Lagos, Nigeria is usually hot, humid, and rainy. It is typically warm year round, with temperatures ranging from the high 70s to the mid-80s (Fahrenheit). The rainy season begins in April and ends in October. During this time, temperatures will be slightly cooler and there could be significant rainfall on some days. From November to March, the climate is much drier, but temperatures will remain warm.\n<|im_end|>\n<|im_start|>user\nQuestion: the south west wind blows across nigeria between\nAnswer:<|im_end|>\n<|im_start|>assistant\n",
+            "pred": "November to March",
+            "metric_score": {
+                "em": 0.0,
+                "f1": 0,
+                "acc": 0.0
+            }
+        }
+    },
+    {
+        "id": "test_4",
+        "question": "what does hp mean in war and order",
+        "golden_answers": [
+            "hit points or health points"
+        ],
+        "output": {
+            "retrieval_result": [
+                {
+                    "id": 11098,
+                    "title": "Imagine you are a strong yet kind-hearted soldier on the battlefield. Write a scene about your experience.?",
+                    "contents": "Imagine you are a strong yet kind-hearted soldier on the battlefield. Write a scene about your experience.?\n\"I strode through the battlefield, my heart heavy with the weight of what I had seen and done. I wanted to put an end to the violence, but I knew that my strength and bravery were required if I was to protect my comrades. I stood firm against our enemies, no fear in my heart, and yet when I struck down the enemy, it was with compassion. I remembered the enemy were someones brother, son, or father, and even in the midst of battle, I could feel my humanity. \\n \\nFinally, the battle had ended. I was relieved to see my comrades safe, and yet saddened by the loss on both sides. I vowed to never forget the innocent lives that had been sacrificed, never forget the cost of war.\""
+                }
+            ],
+            "prompt": "<|im_start|>system\nAnswer the question based on the given document.                     Only give me the answer and do not output any other words.                     \nThe following are given documents.\n\nDoc 1(Title: Imagine you are a strong yet kind-hearted soldier on the battlefield. Write a scene about your experience.?) \"I strode through the battlefield, my heart heavy with the weight of what I had seen and done. I wanted to put an end to the violence, but I knew that my strength and bravery were required if I was to protect my comrades. I stood firm against our enemies, no fear in my heart, and yet when I struck down the enemy, it was with compassion. I remembered the enemy were someones brother, son, or father, and even in the midst of battle, I could feel my humanity. \\n \\nFinally, the battle had ended. I was relieved to see my comrades safe, and yet saddened by the loss on both sides. I vowed to never forget the innocent lives that had been sacrificed, never forget the cost of war.\"\n<|im_end|>\n<|im_start|>user\nQuestion: what does hp mean in war and order\nAnswer:<|im_end|>\n<|im_start|>assistant\n",
+            "pred": "It is not mentioned in the given document.",
+            "metric_score": {
+                "em": 0.0,
+                "f1": 0,
+                "acc": 0.0
+            }
+        }
+    },
+    {
+        "id": "test_5",
+        "question": "who wrote the first declaration of human rights",
+        "golden_answers": [
+            "Cyrus"
+        ],
+        "output": {
+            "retrieval_result": [
+                {
+                    "id": 6081,
+                    "title": "What values were promised in the United States Declaration of Independence??",
+                    "contents": "What values were promised in the United States Declaration of Independence??\nThe United States Declaration of Independence promised life, liberty, and the pursuit of happiness."
+                }
+            ],
+            "prompt": "<|im_start|>system\nAnswer the question based on the given document.                     Only give me the answer and do not output any other words.                     \nThe following are given documents.\n\nDoc 1(Title: What values were promised in the United States Declaration of Independence??) The United States Declaration of Independence promised life, liberty, and the pursuit of happiness.\n<|im_end|>\n<|im_start|>user\nQuestion: who wrote the first declaration of human rights\nAnswer:<|im_end|>\n<|im_start|>assistant\n",
+            "pred": "The question does not match the document. However, based on the document, the values promised in the United States Declaration of Independence were life, liberty, and the",
+            "metric_score": {
+                "em": 0.0,
+                "f1": 0,
+                "acc": 0.0
+            }
+        }
+    },
+    {
+        "id": "test_6",
+        "question": "who is the owner of reading football club",
+        "golden_answers": [
+            "Xiu Li Dai",
+            "Dai Xiuli",
+            "Dai Yongge",
+            "Yongge Dai"
+        ],
+        "output": {
+            "retrieval_result": [
+                {
+                    "id": 2041,
+                    "title": "Who is the founder of the electric car company Lucid Motors?",
+                    "contents": "Who is the founder of the electric car company Lucid Motors?\nPeter Rawlinson is one of the founders of the electric car company Lucid Motors.\\n"
+                }
+            ],
+            "prompt": "<|im_start|>system\nAnswer the question based on the given document.                     Only give me the answer and do not output any other words.                     \nThe following are given documents.\n\nDoc 1(Title: Who is the founder of the electric car company Lucid Motors?) Peter Rawlinson is one of the founders of the electric car company Lucid Motors.\\n\n<|im_end|>\n<|im_start|>user\nQuestion: who is the owner of reading football club\nAnswer:<|im_end|>\n<|im_start|>assistant\n",
+            "pred": "Based on the provided document, the information does not match the question asked. The document talks about the founder of Lucid Motors, not the owner of Reading Football",
+            "metric_score": {
+                "em": 0.0,
+                "f1": 0,
+                "acc": 0.0
+            }
+        }
+    },
+    {
+        "id": "test_7",
+        "question": "when is the next scandal episode coming out",
+        "golden_answers": [
+            "February 1, 2018"
+        ],
+        "output": {
+            "retrieval_result": [
+                {
+                    "id": 9443,
+                    "title": "Tell me the name, release date, and director of the latest Spiderman movie.?",
+                    "contents": "Tell me the name, release date, and director of the latest Spiderman movie.?\nThe latest Spiderman movie is Spider-Man: Into the Spider-Verse, released in 2018 and directed by Bob Persichetti, Peter Ramsey, and Rodney Rothman."
+                }
+            ],
+            "prompt": "<|im_start|>system\nAnswer the question based on the given document.                     Only give me the answer and do not output any other words.                     \nThe following are given documents.\n\nDoc 1(Title: Tell me the name, release date, and director of the latest Spiderman movie.?) The latest Spiderman movie is Spider-Man: Into the Spider-Verse, released in 2018 and directed by Bob Persichetti, Peter Ramsey, and Rodney Rothman.\n<|im_end|>\n<|im_start|>user\nQuestion: when is the next scandal episode coming out\nAnswer:<|im_end|>\n<|im_start|>assistant\n",
+            "pred": "The given document does not provide information about The Next Scandal episode release date.",
+            "metric_score": {
+                "em": 0.0,
+                "f1": 0,
+                "acc": 0.0
+            }
+        }
+    },
+    {
+        "id": "test_8",
+        "question": "when is the last time the philadelphia won the superbowl",
+        "golden_answers": [
+            "Super Bowl LII,",
+            "2017"
+        ],
+        "output": {
+            "retrieval_result": [
+                {
+                    "id": 11253,
+                    "title": "Name five major cities in the United States.?",
+                    "contents": "Name five major cities in the United States.?\nFive major cities in the United States are New York City, Los Angeles, Chicago, Houston, and Philadelphia."
+                }
+            ],
+            "prompt": "<|im_start|>system\nAnswer the question based on the given document.                     Only give me the answer and do not output any other words.                     \nThe following are given documents.\n\nDoc 1(Title: Name five major cities in the United States.?) Five major cities in the United States are New York City, Los Angeles, Chicago, Houston, and Philadelphia.\n<|im_end|>\n<|im_start|>user\nQuestion: when is the last time the philadelphia won the superbowl\nAnswer:<|im_end|>\n<|im_start|>assistant\n",
+            "pred": "2018",
+            "metric_score": {
+                "em": 0.0,
+                "f1": 0,
+                "acc": 0.0
+            }
+        }
+    },
+    {
+        "id": "test_9",
+        "question": "who was the first lady nominated member of the rajya sabha",
+        "golden_answers": [
+            "Mary Kom"
+        ],
+        "output": {
+            "retrieval_result": [
+                {
+                    "id": 2971,
+                    "title": "Who was the first woman President of the Indian National Congress?",
+                    "contents": "Who was the first woman President of the Indian National Congress?\nAnnie Besant was the first woman President of the Indian National Congress."
+                }
+            ],
+            "prompt": "<|im_start|>system\nAnswer the question based on the given document.                     Only give me the answer and do not output any other words.                     \nThe following are given documents.\n\nDoc 1(Title: Who was the first woman President of the Indian National Congress?) Annie Besant was the first woman President of the Indian National Congress.\n<|im_end|>\n<|im_start|>user\nQuestion: who was the first lady nominated member of the rajya sabha\nAnswer:<|im_end|>\n<|im_start|>assistant\n",
+            "pred": "Annie Besant was the first woman President of the Indian National Congress, but the information about the first lady nominated member of Rajya Sabha is not provided in",
+            "metric_score": {
+                "em": 0.0,
+                "f1": 0,
+                "acc": 0.0
+            }
+        }
+    },
+    {
+        "id": "test_10",
+        "question": "what is the most current adobe flash player version",
+        "golden_answers": [
+            "28.0.0.137"
+        ],
+        "output": {
+            "retrieval_result": [
+                {
+                    "id": 8474,
+                    "title": "What is the latest version of Android??",
+                    "contents": "What is the latest version of Android??\nThe latest version of Android is 11.0 (released in 2020)."
+                }
+            ],
+            "prompt": "<|im_start|>system\nAnswer the question based on the given document.                     Only give me the answer and do not output any other words.                     \nThe following are given documents.\n\nDoc 1(Title: What is the latest version of Android??) The latest version of Android is 11.0 (released in 2020).\n<|im_end|>\n<|im_start|>user\nQuestion: what is the most current adobe flash player version\nAnswer:<|im_end|>\n<|im_start|>assistant\n",
+            "pred": "The information provided does not contain the latest version of Adobe Flash Player. As of December 31, 2020, Adobe officially ended support for",
+            "metric_score": {
+                "em": 0.0,
+                "f1": 0,
+                "acc": 0.0
+            }
+        }
+    },
+    {
+        "id": "test_11",
+        "question": "swan lake the sleeping beauty and the nutcracker are three famous ballets by",
+        "golden_answers": [
+            "Pyotr Ilyich Tchaikovsky"
+        ],
+        "output": {
+            "retrieval_result": [
+                {
+                    "id": 2428,
+                    "title": "Who is the composer who wrote \"Swan Lake\"?",
+                    "contents": "Who is the composer who wrote \"Swan Lake\"?\nPyotr Ilyich Tchaikovsky is the composer who wrote \"Swan Lake\".\\n"
+                }
+            ],
+            "prompt": "<|im_start|>system\nAnswer the question based on the given document.                     Only give me the answer and do not output any other words.                     \nThe following are given documents.\n\nDoc 1(Title: Who is the composer who wrote \"Swan Lake\"?) Pyotr Ilyich Tchaikovsky is the composer who wrote \"Swan Lake\".\\n\n<|im_end|>\n<|im_start|>user\nQuestion: swan lake the sleeping beauty and the nutcracker are three famous ballets by\nAnswer:<|im_end|>\n<|im_start|>assistant\n",
+            "pred": "Pyotr Ilyich Tchaikovsky",
+            "metric_score": {
+                "em": 1.0,
+                "f1": 1.0,
+                "acc": 1.0
+            }
+        }
+    },
+    {
+        "id": "test_12",
+        "question": "how many episodes are there in dragon ball z",
+        "golden_answers": [
+            "291 episodes",
+            "291"
+        ],
+        "output": {
+            "retrieval_result": [
+                {
+                    "id": 14032,
+                    "title": "Write down the titles and descriptions for 5 episodes of an animated adventure?",
+                    "contents": "Write down the titles and descriptions for 5 episodes of an animated adventure?\nEpisode 1: Out of the Jungle - The group embarks on an adventure to face unknown dangers as they are stranded in a wild and unfamiliar jungle.\\n\\nEpisode 2: Trouble in the City - When the group enters a bustling city, they must rely on their wits and skills to make it out alive.\\n\\nEpisode 3: Under the Sea- The group dives into the depths of the ocean, encountering beautiful creatures and treacherous underwater obstacles.\\n\\nEpisode 4: Into the Mountains - The group navigates treacherous terrain as they find themselves traversing the snow-covered peaks of distant mountains.\\n\\nEpisode 5: Back Home - After an arduous journey, the group returns home in triumph and is welcomed back by their family and friends."
+                }
+            ],
+            "prompt": "<|im_start|>system\nAnswer the question based on the given document.                     Only give me the answer and do not output any other words.                     \nThe following are given documents.\n\nDoc 1(Title: Write down the titles and descriptions for 5 episodes of an animated adventure?) Episode 1: Out of the Jungle - The group embarks on an adventure to face unknown dangers as they are stranded in a wild and unfamiliar jungle.\\n\\nEpisode 2: Trouble in the City - When the group enters a bustling city, they must rely on their wits and skills to make it out alive.\\n\\nEpisode 3: Under the Sea- The group dives into the depths of the ocean, encountering beautiful creatures and treacherous underwater obstacles.\\n\\nEpisode 4: Into the Mountains - The group navigates treacherous terrain as they find themselves traversing the snow-covered peaks of distant mountains.\\n\\nEpisode 5: Back Home - After an arduous journey, the group returns home in triumph and is welcomed back by their family and friends.\n<|im_end|>\n<|im_start|>user\nQuestion: how many episodes are there in dragon ball z\nAnswer:<|im_end|>\n<|im_start|>assistant\n",
+            "pred": "5",
+            "metric_score": {
+                "em": 0.0,
+                "f1": 0,
+                "acc": 0.0
+            }
+        }
+    },
+    {
+        "id": "test_13",
+        "question": "cast of law & order special victim unit",
+        "golden_answers": [
+            "Kelli Giddish",
+            "Richard Belzer",
+            "Stephanie March",
+            "Diane Neal",
+            "Ice-T",
+            "Danny Pino",
+            "Dann Florek",
+            "Tamara Tunie",
+            "Michaela McManus",
+            "Mariska Hargitay",
+            "Adam Beach",
+            "B. D. Wong",
+            "Christopher Meloni",
+            "Raúl Esparza",
+            "Michelle Hurd",
+            "Peter Scanavino"
+        ],
+        "output": {
+            "retrieval_result": [
+                {
+                    "id": 11098,
+                    "title": "Imagine you are a strong yet kind-hearted soldier on the battlefield. Write a scene about your experience.?",
+                    "contents": "Imagine you are a strong yet kind-hearted soldier on the battlefield. Write a scene about your experience.?\n\"I strode through the battlefield, my heart heavy with the weight of what I had seen and done. I wanted to put an end to the violence, but I knew that my strength and bravery were required if I was to protect my comrades. I stood firm against our enemies, no fear in my heart, and yet when I struck down the enemy, it was with compassion. I remembered the enemy were someones brother, son, or father, and even in the midst of battle, I could feel my humanity. \\n \\nFinally, the battle had ended. I was relieved to see my comrades safe, and yet saddened by the loss on both sides. I vowed to never forget the innocent lives that had been sacrificed, never forget the cost of war.\""
+                }
+            ],
+            "prompt": "<|im_start|>system\nAnswer the question based on the given document.                     Only give me the answer and do not output any other words.                     \nThe following are given documents.\n\nDoc 1(Title: Imagine you are a strong yet kind-hearted soldier on the battlefield. Write a scene about your experience.?) \"I strode through the battlefield, my heart heavy with the weight of what I had seen and done. I wanted to put an end to the violence, but I knew that my strength and bravery were required if I was to protect my comrades. I stood firm against our enemies, no fear in my heart, and yet when I struck down the enemy, it was with compassion. I remembered the enemy were someones brother, son, or father, and even in the midst of battle, I could feel my humanity. \\n \\nFinally, the battle had ended. I was relieved to see my comrades safe, and yet saddened by the loss on both sides. I vowed to never forget the innocent lives that had been sacrificed, never forget the cost of war.\"\n<|im_end|>\n<|im_start|>user\nQuestion: cast of law & order special victim unit\nAnswer:<|im_end|>\n<|im_start|>assistant\n",
+            "pred": "None",
+            "metric_score": {
+                "em": 0.0,
+                "f1": 0,
+                "acc": 0.0
+            }
+        }
+    },
+    {
+        "id": "test_14",
+        "question": "who designed the garden city of new earswick",
+        "golden_answers": [
+            "planner Raymond Unwin",
+            "architect Barry Parker",
+            "Raymond Unwin"
+        ],
+        "output": {
+            "retrieval_result": [
+                {
+                    "id": 3083,
+                    "title": "Which Indian city is known as the \"Garden City\"?",
+                    "contents": "Which Indian city is known as the \"Garden City\"?\nBengaluru is known as the \"Garden City\" in India."
+                }
+            ],
+            "prompt": "<|im_start|>system\nAnswer the question based on the given document.                     Only give me the answer and do not output any other words.                     \nThe following are given documents.\n\nDoc 1(Title: Which Indian city is known as the \"Garden City\"?) Bengaluru is known as the \"Garden City\" in India.\n<|im_end|>\n<|im_start|>user\nQuestion: who designed the garden city of new earswick\nAnswer:<|im_end|>\n<|im_start|>assistant\n",
+            "pred": "Based on the given document, the information provided does not include who designed the garden city of New Earswick. Therefore, I cannot provide an answer from the",
+            "metric_score": {
+                "em": 0.0,
+                "f1": 0,
+                "acc": 0.0
+            }
+        }
+    },
+    {
+        "id": "test_15",
+        "question": "what is the first step in the evolution of the eye",
+        "golden_answers": [
+            "photoreceptor proteins that sense light",
+            "eyespots"
+        ],
+        "output": {
+            "retrieval_result": [
+                {
+                    "id": 12418,
+                    "title": "Describe the four stages of natural selection.?",
+                    "contents": "Describe the four stages of natural selection.?\nThe four stages of natural selection are variation, heritability, selection, and adaptation. Variation occurs when individuals in a species have unique attributes. Heritability is the transfer of a trait from parents to their offspring. Selection is the process of different traits becoming more abundant or rare in a population depending on the environment. Finally, adaptation is when heritable traits that are advantageous become more common in a population."
+                }
+            ],
+            "prompt": "<|im_start|>system\nAnswer the question based on the given document.                     Only give me the answer and do not output any other words.                     \nThe following are given documents.\n\nDoc 1(Title: Describe the four stages of natural selection.?) The four stages of natural selection are variation, heritability, selection, and adaptation. Variation occurs when individuals in a species have unique attributes. Heritability is the transfer of a trait from parents to their offspring. Selection is the process of different traits becoming more abundant or rare in a population depending on the environment. Finally, adaptation is when heritable traits that are advantageous become more common in a population.\n<|im_end|>\n<|im_start|>user\nQuestion: what is the first step in the evolution of the eye\nAnswer:<|im_end|>\n<|im_start|>assistant\n",
+            "pred": "variation",
+            "metric_score": {
+                "em": 0.0,
+                "f1": 0,
+                "acc": 0.0
+            }
+        }
+    },
+    {
+        "id": "test_16",
+        "question": "where is the tv show the curse of oak island filmed",
+        "golden_answers": [
+            "Oak Island"
+        ],
+        "output": {
+            "retrieval_result": [
+                {
+                    "id": 7881,
+                    "title": "Create a new setting for a story.?",
+                    "contents": "Create a new setting for a story.?\nThe story takes place on a small island off the coast of Maine, surrounded by mist and cloaked in mystery. Native inhabitants of the island have been known to tell tales of strange and otherworldly creatures living in the depths of the shadows cast by the surrounding trees."
+                }
+            ],
+            "prompt": "<|im_start|>system\nAnswer the question based on the given document.                     Only give me the answer and do not output any other words.                     \nThe following are given documents.\n\nDoc 1(Title: Create a new setting for a story.?) The story takes place on a small island off the coast of Maine, surrounded by mist and cloaked in mystery. Native inhabitants of the island have been known to tell tales of strange and otherworldly creatures living in the depths of the shadows cast by the surrounding trees.\n<|im_end|>\n<|im_start|>user\nQuestion: where is the tv show the curse of oak island filmed\nAnswer:<|im_end|>\n<|im_start|>assistant\n",
+            "pred": "The documents provided do not contain information about the filming location of \"The Curse of Oak Island.\" However, based on public knowledge, \"The Curse of Oak Island",
+            "metric_score": {
+                "em": 0.0,
+                "f1": 0.16,
+                "acc": 1.0
+            }
+        }
+    }
+]

@@ -1,0 +1,41 @@
+### model
+model_name_or_path: "your_Llama-3.1-8B_model_path"
+trust_remote_code: true
+
+### method
+stage: sft
+do_train: true
+finetuning_type: full
+deepspeed: deepspeed/ds_z3_config.json  # choices: [ds_z0_config.json, ds_z2_config.json, ds_z3_config.json]
+
+### dataset
+dataset: 2wikimultihopqa_train, hotpotqa_train, musique_train
+template: llama3
+cutoff_len: 4096
+# max_samples: 1000 # 每个数据集的最大样本数：设置后，每个数据集的样本数将被截断至指定的 max_samples。
+overwrite_cache: true
+preprocessing_num_workers: 16
+
+### output
+output_dir: "your_output_path"
+logging_steps: 2
+save_steps: 200
+plot_loss: true
+overwrite_output_dir: true
+report_to: tensorboard
+
+### train
+per_device_train_batch_size: 2
+gradient_accumulation_steps: 4
+learning_rate: 1.0e-5
+num_train_epochs: 3.0
+lr_scheduler_type: cosine
+warmup_ratio: 0.1
+bf16: true
+ddp_timeout: 180000000
+
+### eval
+val_size: 0.1
+per_device_eval_batch_size: 1
+eval_strategy: steps
+eval_steps: 500

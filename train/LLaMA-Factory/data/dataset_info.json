@@ -1,0 +1,50 @@
+{
+  "2wikimultihopqa_train_direct_answer": {
+    "file_name": "/inspire/hdd/ws-8207e9e2-e733-4eec-a475-cfa1c36480ba/embodied-multimodality/public/yli/workspace/R3RAG/data/construct/format_single_query_direct_answer/2wikimultihopqa/train/format_answer_list.json"
+  },
+  "hotpotqa_train_direct_answer": {
+    "file_name": "/inspire/hdd/ws-8207e9e2-e733-4eec-a475-cfa1c36480ba/embodied-multimodality/public/yli/workspace/R3RAG/data/construct/format_single_query_direct_answer/hotpotqa/train_3w/format_answer_list.json"
+  },
+  "musique_train_direct_answer": {
+    "file_name": "/inspire/hdd/ws-8207e9e2-e733-4eec-a475-cfa1c36480ba/embodied-multimodality/public/yli/workspace/R3RAG/data/construct/format_single_query_direct_answer/musique/train/format_answer_list.json"
+  },
+  "2wikimultihopqa_train_clear_query": {
+    "file_name": "/inspire/hdd/ws-8207e9e2-e733-4eec-a475-cfa1c36480ba/embodied-multimodality/public/yli/workspace/R3RAG/data/construct/format_single_query_clear_query/2wikimultihopqa/train/format_clear_query.json"
+  },
+  "hotpotqa_train_clear_query": {
+    "file_name": "/inspire/hdd/ws-8207e9e2-e733-4eec-a475-cfa1c36480ba/embodied-multimodality/public/yli/workspace/R3RAG/data/construct/format_single_query_clear_query/hotpotqa/train_3w/format_clear_query.json"
+  },
+  "musique_train_clear_query": {
+    "file_name": "/inspire/hdd/ws-8207e9e2-e733-4eec-a475-cfa1c36480ba/embodied-multimodality/public/yli/workspace/R3RAG/data/construct/format_single_query_clear_query/musique/train/format_clear_query.json"
+  },
+  "2wikimultihopqa_train": {
+    "file_name": "/inspire/hdd/ws-8207e9e2-e733-4eec-a475-cfa1c36480ba/embodied-multimodality/public/yli/workspace/R3RAG/data/construct/format_single_query/2wikimultihopqa/train/format.json"
+  },
+  "hotpotqa_train": {
+    "file_name": "/inspire/hdd/ws-8207e9e2-e733-4eec-a475-cfa1c36480ba/embodied-multimodality/public/yli/workspace/R3RAG/data/construct/format_single_query/hotpotqa/train_3w/format.json"
+  },
+  "musique_train": {
+    "file_name": "/inspire/hdd/ws-8207e9e2-e733-4eec-a475-cfa1c36480ba/embodied-multimodality/public/yli/workspace/R3RAG/data/construct/format_single_query/musique/train/format.json"
+  },
+  "2wikimultihopqa_train_multi_turn": {
+    "file_name": "/inspire/hdd/ws-8207e9e2-e733-4eec-a475-cfa1c36480ba/embodied-multimodality/public/yli/workspace/R3RAG/data/construct/format_single_query_multi_turn/2wikimultihopqa/train/format_multi_turn.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations"
+    }
+  },
+  "hotpotqa_train_multi_turn": {
+    "file_name": "/inspire/hdd/ws-8207e9e2-e733-4eec-a475-cfa1c36480ba/embodied-multimodality/public/yli/workspace/R3RAG/data/construct/format_single_query_multi_turn/hotpotqa/train_3w/format_multi_turn.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations"
+    }
+  },
+  "musique_train_multi_turn": {
+    "file_name": "/inspire/hdd/ws-8207e9e2-e733-4eec-a475-cfa1c36480ba/embodied-multimodality/public/yli/workspace/R3RAG/data/construct/format_single_query_multi_turn/musique/train/format_multi_turn.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations"
+    }
+  }
+}

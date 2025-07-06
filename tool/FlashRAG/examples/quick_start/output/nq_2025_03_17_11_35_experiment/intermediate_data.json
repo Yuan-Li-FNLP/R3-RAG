@@ -1,0 +1,756 @@
+[
+    {
+        "id": "test_0",
+        "question": "who got the first nobel prize in physics",
+        "golden_answers": [
+            "Wilhelm Conrad Röntgen"
+        ],
+        "output": {
+            "retrieval_result": [
+                {
+                    "id": 3364788,
+                    "contents": "Dhu Nuwas\nالذي له (ملك) السماوات والأرض الملك يوسف أسار يثأر ملك كل الشعوب وليبارك الأقيال Third line:<br> Sabaean:خصرو مراهمو ملكن يوسف اسار يثار كدهر قلسن وهرج احبشن بظفر وعلي حرب اشعرن وركبن وفرسن<br> Arabic : الذين ناصروا سيدهم الملك يوسف أسأر يثأر عندما أحرق الكنيسة وقتل الأحباش في ظفار وعلى حرب الأشاعرة وركبان وفرسان Fifth line:<br> Sabaean:وكذه فلح لهفان ملكن بهيت سباتن خمس ماتو عثني عشر االفم مهرجتم واحد عشر االفم سبيم وتسعي<br> Arabic : وقد أفلح الملك في هذه المعركة في قتل 12500 اثناعشر الف وخمسمائة قتيل و11090 أحد عشر ألف وتسعين اسير Sixth line:<br> Sabaean:وثتي ماتن االفن ابلم وبقرم\\n"
+                },
+                {
+                    "id": 1754885,
+                    "contents": "Inform\nadd his/her own relations. A developer might add relations indicating love or hatred between beings, or to track which characters in a game have met each other. Inform 7 is a highly domain-specific programming language, providing the writer/programmer with a much higher level of abstraction than Inform 6, and highly readable resulting source code. Statements in Inform 7 take the form of complete sentences. Blank lines and indentation are in some places structurally significant. The basic form of an Inform 7 program is as follows: The following is a reimplementation of the above \"Hello Deductible\" example written in Inform 7.\\n"
+                },
+                {
+                    "id": 6799133,
+                    "contents": "Uppar\nಕಾಮಧೇನು. ಆ ಕಾಮಧೇನುವೇ ಅರಸ ಮತ್ತು ಆತನ ಸೈನ್ಯಕ್ಕೆ ಪುಷ್ಕಳ ಭೋಜನ ನೀಡಿದ್ದನ್ನು ಆತ ಜಮದಗ್ನಿಯಿಂದ ತಿಳಿದುಕೊಳ್ಳುತ್ತಾನೆ. ಈ ಸಂದರ್ಭದಲ್ಲಿ ಕಾಮಧೇನುವಿನ ಬಗ್ಗೆ ಆಸಕ್ತಿ ತಾಳಿದ ಕಾರ್ತವೀರ್ಯ ರಾಜ, ಇಂತಹ ಕಾಮಧೇನು ಅರಮನೆಯಲ್ಲಿ ಚಕ್ರವರ್ತಿಗಳ ಬಳಿ ಇರಬೇಕಾದವಳು ಕಾಡಿನಲ್ಲಿ ಏಕೆ ಇದ್ದಾಳೆ? ಎಂದು ಪ್ರಶ್ನಿಸಿ ಅದನ್ನು ತನ್ನೊಟ್ಟಿಗೆ ಕಳುಹಿಸಿಕೊಡುವಂತೆ ಜಮದಗ್ನಿಯಲ್ಲಿ ಕೇಳುತ್ತಾನೆ. ಕಾಮಧೇನುವನ್ನು ದೇವತೆಗಳು ನನಗೆ ವರವಾಗಿ ಕೊಟ್ಟಿದ್ದಾರೆ. ಹಸ್ತಾಂತರಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ. ದೇವತೆಗಳನ್ನು ಕೇಳಿ, ಅವರು ಒಪ್ಪಿದರೆ ಕಾಮಧೇನುವನ್ನು ನಿಮ್ಮೊಟ್ಟಿಗೆ ಕಳುಹಿಸಲು ನನ್ನದೇನೂ ಅಭ್ಯಂತರವಿಲ್ಲ ಎಂದು ಜಮದಗ್ನಿ ಹೇಳುತ್ತಾನೆ. ಆಗ ಕಾರ್ತವೀರ್ಯರಾಜ ದೇವತೆಗಳ ಬಳಿ ಕೇಳಿಕೊಳ್ಳುತ್ತಾನೆ. ಆದರೆ, ದೇವತೆಗಳು ಒಪ್ಪುವುದಿಲ್ಲ. ಇದರ ಪರಿಣಾಮ ಬ್ರಹ್ಮ ಕುಲಕ್ಕೂ ಮತ್ತು ಕ್ಷತ್ರಿಯ ಕುಲಕ್ಕೂ ಸಂಘರ್ಷ ಏರ್ಪಡುತ್ತದೆ. ಕ್ಷಾತ್ರನಾದ ಕಾರ್ತವೀರ್ಯರಾಜ ಈ ಸಂಘರ್ಷದಲ್ಲಿ ಸೋಲನುಭವಿಸಿದನಾದರೂ ಆಕೆಯನ್ನು ಪಡೆಯಲೇಬೇಕೆಂಬ ಹಠ ಮಾತ್ರ ಬಿಡಲಿಲ್ಲ. ಕೃದ್ಧನಾಗಿ ಜಮದಗ್ನಿಯನ್ನು ಕೊಂದು ಕಾಮಧೇನುವನ್ನು ಹೊತ್ತೊಯ್ಯುತ್ತಾನೆ ಕಾರ್ತವೀರ್ಯರಾಜ. ಈ ವಿಚಾರವನ್ನು ರೇಣುಕಾದೇವಿ ತನ್ನ ಮಗ ಪರಶುರಾಮನಿಗೆ ತಿಳಿಸುತ್ತಾಳೆ. ಆಗ, ಪರಶುರಾಮ ಶಪಥವೊಂದನ್ನು ಮಾಡುತ್ತಾನೆ.\\n"
+                },
+                {
+                    "id": 18175975,
+                    "contents": "1895 State of the Union Address\ngrown up throughout the interior of China under the temperate rule of toleration, custom, and imperial edict. 1895 State of the Union Address The 1895 State of the Union Address was written by Grover Cleveland. It was presented on Monday, December 2, 1895, to both houses of the 54th United States Congress. He said, \"Although but one American citizen was reported to have been actually wounded, and although the destruction of property may have fallen more heavily upon the missionaries of other nationalities than our own, it plainly behooved this Government to take the most prompt and decided action to\\n"
+                },
+                {
+                    "id": 718068,
+                    "contents": "Wilhelm Röntgen\nRöntgen's discovery of a new type of radiation. Röntgen was awarded an honorary Doctor of Medicine degree from the University of Würzburg after his discovery. He published a total of three papers on X-rays between 1895 and 1897. Today, Röntgen is considered the father of diagnostic radiology, the medical speciality which uses imaging to diagnose disease. A collection of his papers is held at the National Library of Medicine in Bethesda, Maryland. Röntgen was married to Anna Bertha Ludwig (m. 1872, d. 1919). They raised one child, Josephine Bertha Ludwig, whom they adopted at age 6 from Anna's brother in\\n"
+                },
+                {
+                    "id": 467991,
+                    "contents": "X-ray\nX-ray X-rays make up X-radiation, a form of electromagnetic radiation. Most X-rays have a wavelength ranging from 0.01 to 10 nanometers, corresponding to frequencies in the range 30 petahertz to 30 exahertz (3×10 Hz to 3×10 Hz) and energies in the range 100 eV to 100 keV. X-ray wavelengths are shorter than those of UV rays and typically longer than those of gamma rays. In many languages, X-radiation is referred to with terms meaning Röntgen radiation, after the German scientist Wilhelm Röntgen who discovered these on November 8, 1895, who usually is credited as its discoverer, and who named it\\n"
+                },
+                {
+                    "id": 628712,
+                    "contents": "Nobel Prize in Physics\nNobel Prize in Physics The Nobel Prize in Physics () is a yearly award given by the Royal Swedish Academy of Sciences for those who have made the most outstanding contributions for mankind in the field of physics. It is one of the five Nobel Prizes established by the will of Alfred Nobel in 1895 and awarded since 1901; the others being the Nobel Prize in Chemistry, Nobel Prize in Literature, Nobel Peace Prize, and Nobel Prize in Physiology or Medicine. The first Nobel Prize in Physics was awarded to physicist Wilhelm Röntgen in recognition of the extraordinary services he\\n"
+                },
+                {
+                    "id": 718059,
+                    "contents": "Wilhelm Röntgen\nWilhelm Röntgen Wilhelm Conrad Röntgen (; ; 27 March 1845 – 10 February 1923) was a German mechanical engineer and physicist, who, on 8 November 1895, produced and detected electromagnetic radiation in a wavelength range known as X-rays or Röntgen rays, an achievement that earned him the first Nobel Prize in Physics in 1901. In honour of his accomplishments, in 2004 the International Union of Pure and Applied Chemistry (IUPAC) named element 111, roentgenium, a radioactive element with multiple unstable isotopes, after him. Born to a German father and a Dutch mother, Röntgen attended high school in Utrecht, Netherlands. In\\n"
+                }
+            ],
+            "pred": "Wilhelm Röntgen  (or Wilhelm Conrad Röntgen) got the first Nobel Prize in Physics, awarded in 1901, for his discovery of X-rays  (or electromagnetic radiation in a wavelength range known as X-rays or Röntgen rays) on 8 November 1895  (source: Doc 5, Doc 6)  (related information can be found in Doc 7)",
+            "raw_pred": "Wilhelm Röntgen  (or Wilhelm Conrad Röntgen) got the first Nobel Prize in Physics, awarded in 1901, for his discovery of X-rays  (or electromagnetic radiation in a wavelength range known as X-rays or Röntgen rays) on 8 November 1895  (source: Doc 5, Doc 6)  (related information can be found in Doc 7)",
+            "metric_score": {
+                "em": 0.0,
+                "f1": 0.11538461538461538,
+                "acc": 1.0
+            }
+        }
+    },
+    {
+        "id": "test_1",
+        "question": "when is the next deadpool movie being released",
+        "golden_answers": [
+            "May 18, 2018"
+        ],
+        "output": {
+            "retrieval_result": [
+                {
+                    "id": 6799133,
+                    "contents": "Uppar\nಕಾಮಧೇನು. ಆ ಕಾಮಧೇನುವೇ ಅರಸ ಮತ್ತು ಆತನ ಸೈನ್ಯಕ್ಕೆ ಪುಷ್ಕಳ ಭೋಜನ ನೀಡಿದ್ದನ್ನು ಆತ ಜಮದಗ್ನಿಯಿಂದ ತಿಳಿದುಕೊಳ್ಳುತ್ತಾನೆ. ಈ ಸಂದರ್ಭದಲ್ಲಿ ಕಾಮಧೇನುವಿನ ಬಗ್ಗೆ ಆಸಕ್ತಿ ತಾಳಿದ ಕಾರ್ತವೀರ್ಯ ರಾಜ, ಇಂತಹ ಕಾಮಧೇನು ಅರಮನೆಯಲ್ಲಿ ಚಕ್ರವರ್ತಿಗಳ ಬಳಿ ಇರಬೇಕಾದವಳು ಕಾಡಿನಲ್ಲಿ ಏಕೆ ಇದ್ದಾಳೆ? ಎಂದು ಪ್ರಶ್ನಿಸಿ ಅದನ್ನು ತನ್ನೊಟ್ಟಿಗೆ ಕಳುಹಿಸಿಕೊಡುವಂತೆ ಜಮದಗ್ನಿಯಲ್ಲಿ ಕೇಳುತ್ತಾನೆ. ಕಾಮಧೇನುವನ್ನು ದೇವತೆಗಳು ನನಗೆ ವರವಾಗಿ ಕೊಟ್ಟಿದ್ದಾರೆ. ಹಸ್ತಾಂತರಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ. ದೇವತೆಗಳನ್ನು ಕೇಳಿ, ಅವರು ಒಪ್ಪಿದರೆ ಕಾಮಧೇನುವನ್ನು ನಿಮ್ಮೊಟ್ಟಿಗೆ ಕಳುಹಿಸಲು ನನ್ನದೇನೂ ಅಭ್ಯಂತರವಿಲ್ಲ ಎಂದು ಜಮದಗ್ನಿ ಹೇಳುತ್ತಾನೆ. ಆಗ ಕಾರ್ತವೀರ್ಯರಾಜ ದೇವತೆಗಳ ಬಳಿ ಕೇಳಿಕೊಳ್ಳುತ್ತಾನೆ. ಆದರೆ, ದೇವತೆಗಳು ಒಪ್ಪುವುದಿಲ್ಲ. ಇದರ ಪರಿಣಾಮ ಬ್ರಹ್ಮ ಕುಲಕ್ಕೂ ಮತ್ತು ಕ್ಷತ್ರಿಯ ಕುಲಕ್ಕೂ ಸಂಘರ್ಷ ಏರ್ಪಡುತ್ತದೆ. ಕ್ಷಾತ್ರನಾದ ಕಾರ್ತವೀರ್ಯರಾಜ ಈ ಸಂಘರ್ಷದಲ್ಲಿ ಸೋಲನುಭವಿಸಿದನಾದರೂ ಆಕೆಯನ್ನು ಪಡೆಯಲೇಬೇಕೆಂಬ ಹಠ ಮಾತ್ರ ಬಿಡಲಿಲ್ಲ. ಕೃದ್ಧನಾಗಿ ಜಮದಗ್ನಿಯನ್ನು ಕೊಂದು ಕಾಮಧೇನುವನ್ನು ಹೊತ್ತೊಯ್ಯುತ್ತಾನೆ ಕಾರ್ತವೀರ್ಯರಾಜ. ಈ ವಿಚಾರವನ್ನು ರೇಣುಕಾದೇವಿ ತನ್ನ ಮಗ ಪರಶುರಾಮನಿಗೆ ತಿಳಿಸುತ್ತಾಳೆ. ಆಗ, ಪರಶುರಾಮ ಶಪಥವೊಂದನ್ನು ಮಾಡುತ್ತಾನೆ.\\n"
+                },
+                {
+                    "id": 6481562,
+                    "contents": "2,5-Dimethoxy-4-chloroamphetamine\n(DOC). Class A. DOC is not scheduled at the federal level in the United States, but the Department of Justice considers it to be an analogue of DOB and, as such, possession or sale could be prosecuted under the Federal Analogue Act. In the United States, the analogues DMA, DOB, and DOM are Schedule I controlled substances. DOC is a Schedule I controlled substance in the state of Florida making it illegal to buy, sell, or possess. 2,5-Dimethoxy-4-chloroamphetamine 2,5-Dimethoxy-4-chloroamphetamine (DOC) is a psychedelic drug of the phenethylamine and amphetamine chemical classes. It was presumably first synthesized by Alexander Shulgin, and\\n"
+                },
+                {
+                    "id": 18286084,
+                    "contents": "Deadpool (film)\nwas written by Reese and Wernick and played in front of \"Logan\". \"Deadpool 2\" was released on May 18, 2018, with Baccarin, T. J. Miller, Uggams, Hildebrand, and Kapičić all returning. Josh Brolin joined them as Cable. The film explores the team X-Force, which includes Deadpool and Cable. In March 2017, Reese said that a future film focused on that group would be separate from \"Deadpool 3\", \"so I think we'll be able to take two paths. [\"X-Force\"] is where we're launching something bigger, but then [\"Deadpool 3\" is] where we're contracting and staying personal and small.\" After the acquisition\\n"
+                }
+            ],
+            "pred": "March 2017 plans suggested \"Deadpool 3\" was in development, but an exact release date was not provided in the given text  Doc 2 ,5-Dimethoxy-4-chloroamphetamine , Doc Uppar , or Doc Deadpool (film)     Therefore, based on the information given, there is no specific release date mentioned for the next Deadpool movie ",
+            "raw_pred": "March 2017 plans suggested \"Deadpool 3\" was in development, but an exact release date was not provided in the given text  Doc 2 ,5-Dimethoxy-4-chloroamphetamine , Doc Uppar , or Doc Deadpool (film)     Therefore, based on the information given, there is no specific release date mentioned for the next Deadpool movie ",
+            "metric_score": {
+                "em": 0.0,
+                "f1": 0,
+                "acc": 0.0
+            }
+        }
+    },
+    {
+        "id": "test_2",
+        "question": "which mode is used for short wave broadcast service",
+        "golden_answers": [
+            "Olivia",
+            "MFSK"
+        ],
+        "output": {
+            "retrieval_result": [
+                {
+                    "id": 6799133,
+                    "contents": "Uppar\nಕಾಮಧೇನು. ಆ ಕಾಮಧೇನುವೇ ಅರಸ ಮತ್ತು ಆತನ ಸೈನ್ಯಕ್ಕೆ ಪುಷ್ಕಳ ಭೋಜನ ನೀಡಿದ್ದನ್ನು ಆತ ಜಮದಗ್ನಿಯಿಂದ ತಿಳಿದುಕೊಳ್ಳುತ್ತಾನೆ. ಈ ಸಂದರ್ಭದಲ್ಲಿ ಕಾಮಧೇನುವಿನ ಬಗ್ಗೆ ಆಸಕ್ತಿ ತಾಳಿದ ಕಾರ್ತವೀರ್ಯ ರಾಜ, ಇಂತಹ ಕಾಮಧೇನು ಅರಮನೆಯಲ್ಲಿ ಚಕ್ರವರ್ತಿಗಳ ಬಳಿ ಇರಬೇಕಾದವಳು ಕಾಡಿನಲ್ಲಿ ಏಕೆ ಇದ್ದಾಳೆ? ಎಂದು ಪ್ರಶ್ನಿಸಿ ಅದನ್ನು ತನ್ನೊಟ್ಟಿಗೆ ಕಳುಹಿಸಿಕೊಡುವಂತೆ ಜಮದಗ್ನಿಯಲ್ಲಿ ಕೇಳುತ್ತಾನೆ. ಕಾಮಧೇನುವನ್ನು ದೇವತೆಗಳು ನನಗೆ ವರವಾಗಿ ಕೊಟ್ಟಿದ್ದಾರೆ. ಹಸ್ತಾಂತರಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ. ದೇವತೆಗಳನ್ನು ಕೇಳಿ, ಅವರು ಒಪ್ಪಿದರೆ ಕಾಮಧೇನುವನ್ನು ನಿಮ್ಮೊಟ್ಟಿಗೆ ಕಳುಹಿಸಲು ನನ್ನದೇನೂ ಅಭ್ಯಂತರವಿಲ್ಲ ಎಂದು ಜಮದಗ್ನಿ ಹೇಳುತ್ತಾನೆ. ಆಗ ಕಾರ್ತವೀರ್ಯರಾಜ ದೇವತೆಗಳ ಬಳಿ ಕೇಳಿಕೊಳ್ಳುತ್ತಾನೆ. ಆದರೆ, ದೇವತೆಗಳು ಒಪ್ಪುವುದಿಲ್ಲ. ಇದರ ಪರಿಣಾಮ ಬ್ರಹ್ಮ ಕುಲಕ್ಕೂ ಮತ್ತು ಕ್ಷತ್ರಿಯ ಕುಲಕ್ಕೂ ಸಂಘರ್ಷ ಏರ್ಪಡುತ್ತದೆ. ಕ್ಷಾತ್ರನಾದ ಕಾರ್ತವೀರ್ಯರಾಜ ಈ ಸಂಘರ್ಷದಲ್ಲಿ ಸೋಲನುಭವಿಸಿದನಾದರೂ ಆಕೆಯನ್ನು ಪಡೆಯಲೇಬೇಕೆಂಬ ಹಠ ಮಾತ್ರ ಬಿಡಲಿಲ್ಲ. ಕೃದ್ಧನಾಗಿ ಜಮದಗ್ನಿಯನ್ನು ಕೊಂದು ಕಾಮಧೇನುವನ್ನು ಹೊತ್ತೊಯ್ಯುತ್ತಾನೆ ಕಾರ್ತವೀರ್ಯರಾಜ. ಈ ವಿಚಾರವನ್ನು ರೇಣುಕಾದೇವಿ ತನ್ನ ಮಗ ಪರಶುರಾಮನಿಗೆ ತಿಳಿಸುತ್ತಾಳೆ. ಆಗ, ಪರಶುರಾಮ ಶಪಥವೊಂದನ್ನು ಮಾಡುತ್ತಾನೆ.\\n"
+                },
+                {
+                    "id": 616989,
+                    "contents": "Slow-scan television\nand picture signals from received audio tones. The audio would be attached to a radio receiver and transmitter. A modern system, having gained ground since the early 1990s, uses a personal computer and special software in place of much of the custom equipment. The sound card of a PC, with special processing software, acts as a modem. The computer screen provides the output. A small digital camera or digital photos provide the input. Like the similar radiofax mode, SSTV is an analog signal. SSTV uses frequency modulation, in which every different value of brightness in the image gets a different\\n"
+                },
+                {
+                    "id": 4942929,
+                    "contents": "Shortwave bands\nof the globe. Designated bands in the shortwave spectrum are used for ships, aircraft, and land vehicles. Shortwave (HF radio) is used by transoceanic aircraft for communications with air-traffic control centers out of VHF radio range. Most countries with HF citizens'-band allocations use 40 or 80 channels between approximately 26.5 MHz and 27.9 MHz, in 10 kHz steps. Due to antenna-length requirements and the band's long-distance propagation characteristics (undesirable in these cases), much land-mobile radio activity has moved to VHF or UHF and most cordless-phone use is at UHF or higher. Some segments of the HF spectrum are allocated for\\n"
+                },
+                {
+                    "id": 685100,
+                    "contents": "Shortwave radio\nabove. Continuous wave (CW) is on-and-off keying of a carrier, used for Morse code communications and Hellschreiber facsimile-based teleprinter transmissions. It is a data mode, although often listed separately. Radioteletype, fax, digital, slow-scan television, and other systems use forms of frequency-shift keying or audio subcarriers on a shortwave carrier. These generally require special equipment to decode, such as software on a computer equipped with a sound card. Note that on modern computer-driven systems, digital modes are typically sent by coupling a computer's sound output to the SSB input of a radio. Some established users of the shortwave radio bands may\\n"
+                }
+            ],
+            "pred": "Continuous wave (CW) is used for Morse code communications and Hellschreiber facsimile-based teleprinter transmissions, but radioteletype, fax , digital, slow-scan television, and other systems are also used, requiring special equipment to decode   on shortwave carrier     ",
+            "raw_pred": "Continuous wave (CW) is used for Morse code communications and Hellschreiber facsimile-based teleprinter transmissions, but radioteletype, fax , digital, slow-scan television, and other systems are also used, requiring special equipment to decode   on shortwave carrier     ",
+            "metric_score": {
+                "em": 0.0,
+                "f1": 0,
+                "acc": 0.0
+            }
+        }
+    },
+    {
+        "id": "test_3",
+        "question": "the south west wind blows across nigeria between",
+        "golden_answers": [
+            "till September"
+        ],
+        "output": {
+            "retrieval_result": [
+                {
+                    "id": 11936977,
+                    "contents": "See You, See Me\nWind 17 January: 1050-1110 Autumn 2005 1 Citizenship: making decisions Programme 1 At home with decisions Programme 2 Out and about with T.O.P.S. 2 Are you eco-friendly? Programme 1 The seashore Programme 2 The river Programme 3 The town Programme 4 The forest Programme 5 The mountain 3 Money Programme 1 What is money? Programme 2 What is a bank? Programme 3 Making and spending money Spring 2006 1 Scottish physical features part 3 - The Southern Uplands 2 Risk Programme 1 Living dangerously Programme 2 Stick to your guns Autumn 2006 1 Castles Programme 1 Building a castle Programme\\n"
+                },
+                {
+                    "id": 6799133,
+                    "contents": "Uppar\nಕಾಮಧೇನು. ಆ ಕಾಮಧೇನುವೇ ಅರಸ ಮತ್ತು ಆತನ ಸೈನ್ಯಕ್ಕೆ ಪುಷ್ಕಳ ಭೋಜನ ನೀಡಿದ್ದನ್ನು ಆತ ಜಮದಗ್ನಿಯಿಂದ ತಿಳಿದುಕೊಳ್ಳುತ್ತಾನೆ. ಈ ಸಂದರ್ಭದಲ್ಲಿ ಕಾಮಧೇನುವಿನ ಬಗ್ಗೆ ಆಸಕ್ತಿ ತಾಳಿದ ಕಾರ್ತವೀರ್ಯ ರಾಜ, ಇಂತಹ ಕಾಮಧೇನು ಅರಮನೆಯಲ್ಲಿ ಚಕ್ರವರ್ತಿಗಳ ಬಳಿ ಇರಬೇಕಾದವಳು ಕಾಡಿನಲ್ಲಿ ಏಕೆ ಇದ್ದಾಳೆ? ಎಂದು ಪ್ರಶ್ನಿಸಿ ಅದನ್ನು ತನ್ನೊಟ್ಟಿಗೆ ಕಳುಹಿಸಿಕೊಡುವಂತೆ ಜಮದಗ್ನಿಯಲ್ಲಿ ಕೇಳುತ್ತಾನೆ. ಕಾಮಧೇನುವನ್ನು ದೇವತೆಗಳು ನನಗೆ ವರವಾಗಿ ಕೊಟ್ಟಿದ್ದಾರೆ. ಹಸ್ತಾಂತರಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ. ದೇವತೆಗಳನ್ನು ಕೇಳಿ, ಅವರು ಒಪ್ಪಿದರೆ ಕಾಮಧೇನುವನ್ನು ನಿಮ್ಮೊಟ್ಟಿಗೆ ಕಳುಹಿಸಲು ನನ್ನದೇನೂ ಅಭ್ಯಂತರವಿಲ್ಲ ಎಂದು ಜಮದಗ್ನಿ ಹೇಳುತ್ತಾನೆ. ಆಗ ಕಾರ್ತವೀರ್ಯರಾಜ ದೇವತೆಗಳ ಬಳಿ ಕೇಳಿಕೊಳ್ಳುತ್ತಾನೆ. ಆದರೆ, ದೇವತೆಗಳು ಒಪ್ಪುವುದಿಲ್ಲ. ಇದರ ಪರಿಣಾಮ ಬ್ರಹ್ಮ ಕುಲಕ್ಕೂ ಮತ್ತು ಕ್ಷತ್ರಿಯ ಕುಲಕ್ಕೂ ಸಂಘರ್ಷ ಏರ್ಪಡುತ್ತದೆ. ಕ್ಷಾತ್ರನಾದ ಕಾರ್ತವೀರ್ಯರಾಜ ಈ ಸಂಘರ್ಷದಲ್ಲಿ ಸೋಲನುಭವಿಸಿದನಾದರೂ ಆಕೆಯನ್ನು ಪಡೆಯಲೇಬೇಕೆಂಬ ಹಠ ಮಾತ್ರ ಬಿಡಲಿಲ್ಲ. ಕೃದ್ಧನಾಗಿ ಜಮದಗ್ನಿಯನ್ನು ಕೊಂದು ಕಾಮಧೇನುವನ್ನು ಹೊತ್ತೊಯ್ಯುತ್ತಾನೆ ಕಾರ್ತವೀರ್ಯರಾಜ. ಈ ವಿಚಾರವನ್ನು ರೇಣುಕಾದೇವಿ ತನ್ನ ಮಗ ಪರಶುರಾಮನಿಗೆ ತಿಳಿಸುತ್ತಾಳೆ. ಆಗ, ಪರಶುರಾಮ ಶಪಥವೊಂದನ್ನು ಮಾಡುತ್ತಾನೆ.\\n"
+                },
+                {
+                    "id": 15695569,
+                    "contents": "Energy in Nigeria\nin Nigeria (Lagos, Abuja, Benin City, Port Harcourt, Kaduna and Kano) now power their street lighting with solar energy through state beautification projects. Low Energy Designs, a firm from the United Kingdom, was contracted to build solar powered street lights across Nigeria. This twelve month project is expected to cover about 300 km and cost about 7 million U.S. dollars. In addition, the World Bank has lent Nigeria about 350 million to build a solar power grid by 2023 that will help generate power for hospitals, rural areas, schools and households. In February 2018, Nigeria completed the Renewable Energy and\\n"
+                },
+                {
+                    "id": 15292469,
+                    "contents": "2023 vision\n2023 vision The 2023 vision is a list of goals released by the administration of Prime Minister (now President) Recep Tayyip Erdoğan, to coincide with the centenary of the Republic of Turkey in 2023. Turkey's foreign-policy objectives and vision as articulated by former Prime Minister Ahmet Davutoğlu: The Turkish currency and debt crisis of 2018 is an ongoing financial crisis in Turkey. It is characterized by a plunging value of the Turkish lira, high inflation, rising borrowing costs and corresponding loan defaults. Under the government of Recep Tayyip Erdoğan, Turkey has been running huge and growing current account deficits, reaching\\n"
+                },
+                {
+                    "id": 135440,
+                    "contents": "February\nFebruary February is the second and shortest month of the year in the Julian and Gregorian calendar with 28 days in common years and 29 days in leap years, with the quadrennial 29th day being called the \"leap day\". It is the first of five months to have a length of less than 31 days (the other four months that fall under this category are: April, June, September, and November), and the only month to have a length of less than 30 days, as the other eleven months have a length of at least 30 days. This year February 28\\n"
+                },
+                {
+                    "id": 13469277,
+                    "contents": "Nigeria Vision 2020\nNigeria Vision 2020 “By 2020 Nigeria will be one of the 20 largest economies in the world, able to consolidate its leadership role in Africa and establish itself as a significant player in the global economic and political arena.” Concept Nigeria’s economic potential is well recognized. It is the biggest economy in the West African sub region. Given the country’s considerable resource endowment and coastal location there is potential for strong growth. Yet Nigeria has realized very little of this potential. Previous efforts at planning and visioning were not sustained. The history of economic stagnation, declining welfare and social instability,\\n"
+                },
+                {
+                    "id": 283795,
+                    "contents": "Geography of Nigeria\nGeography of Nigeria Nigeria is a country in West Africa. Nigeria shares land borders with the Republic of Benin in the west, Chad and Cameroon in the east, and Niger in the north. Its coast lies on the Gulf of Guinea in the south and it borders Lake Chad to the northeast. Noted geographical features in Nigeria include the Adamawa highlands, Mambilla Plateau, Jos Plateau, Obudu Plateau, the Niger River, River Benue and Niger Delta. Nigeria is found in the Tropics, where the climate is seasonally damp and very humid. Nigeria is affected by four climate types; these climate types\\n"
+                },
+                {
+                    "id": 283805,
+                    "contents": "Geography of Nigeria\nsouth atlantic ocean, locally known as the south western wind, or by its main name, The Tropical Maritime (MT) airmass. These two major wind systems in Nigeria are known as the trade winds. The tropical maritime airmass (MT) is responsible for Nigeria's rainy season. This wind (the tropical maritime airmass) invades the country from February in the southern part of Nigeria while it takes longer for the wind to fully cover the whole of the country, reaching the northern part of Nigeria in June. Its invasion is as a result of the northward retreat, of the tropical continental airmass (CT)\\n"
+                }
+            ],
+            "pred": "February and June  2023 vision, Geography of Nigeria, February 2023  2023 vision, South West Wind  2023 vision, South Western Wind  202 3 vision, South Westerly Wind  2023 vision, Southwest Wind  2023 vision, South West Wind  2 023 vision, 2023 vision, Wind  2023 vision, Wind in Nigeria  2023 vision, South West Wind in Nigeria  2023 vision, South Westerly Wind in Nigeria  2023 vision, South Western Wind in Nigeria  2023 vision, Southwest Wind in Nigeria  2023 vision, South Westerly Wind in Nigeria  20 23 vision, South Western Wind in Nigeria  2023 vision, 2023 vision, South West Wind in Nigeria  2",
+            "raw_pred": "February and June  2023 vision, Geography of Nigeria, February 2023  2023 vision, South West Wind  2023 vision, South Western Wind  202 3 vision, South Westerly Wind  2023 vision, Southwest Wind  2023 vision, South West Wind  2 023 vision, 2023 vision, Wind  2023 vision, Wind in Nigeria  2023 vision, South West Wind in Nigeria  2023 vision, South Westerly Wind in Nigeria  2023 vision, South Western Wind in Nigeria  2023 vision, Southwest Wind in Nigeria  2023 vision, South Westerly Wind in Nigeria  20 23 vision, South Western Wind in Nigeria  2023 vision, 2023 vision, South West Wind in Nigeria  2",
+            "metric_score": {
+                "em": 0.0,
+                "f1": 0,
+                "acc": 0.0
+            }
+        }
+    },
+    {
+        "id": "test_4",
+        "question": "what does hp mean in war and order",
+        "golden_answers": [
+            "hit points or health points"
+        ],
+        "output": {
+            "retrieval_result": [
+                {
+                    "id": 6799133,
+                    "contents": "Uppar\nಕಾಮಧೇನು. ಆ ಕಾಮಧೇನುವೇ ಅರಸ ಮತ್ತು ಆತನ ಸೈನ್ಯಕ್ಕೆ ಪುಷ್ಕಳ ಭೋಜನ ನೀಡಿದ್ದನ್ನು ಆತ ಜಮದಗ್ನಿಯಿಂದ ತಿಳಿದುಕೊಳ್ಳುತ್ತಾನೆ. ಈ ಸಂದರ್ಭದಲ್ಲಿ ಕಾಮಧೇನುವಿನ ಬಗ್ಗೆ ಆಸಕ್ತಿ ತಾಳಿದ ಕಾರ್ತವೀರ್ಯ ರಾಜ, ಇಂತಹ ಕಾಮಧೇನು ಅರಮನೆಯಲ್ಲಿ ಚಕ್ರವರ್ತಿಗಳ ಬಳಿ ಇರಬೇಕಾದವಳು ಕಾಡಿನಲ್ಲಿ ಏಕೆ ಇದ್ದಾಳೆ? ಎಂದು ಪ್ರಶ್ನಿಸಿ ಅದನ್ನು ತನ್ನೊಟ್ಟಿಗೆ ಕಳುಹಿಸಿಕೊಡುವಂತೆ ಜಮದಗ್ನಿಯಲ್ಲಿ ಕೇಳುತ್ತಾನೆ. ಕಾಮಧೇನುವನ್ನು ದೇವತೆಗಳು ನನಗೆ ವರವಾಗಿ ಕೊಟ್ಟಿದ್ದಾರೆ. ಹಸ್ತಾಂತರಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ. ದೇವತೆಗಳನ್ನು ಕೇಳಿ, ಅವರು ಒಪ್ಪಿದರೆ ಕಾಮಧೇನುವನ್ನು ನಿಮ್ಮೊಟ್ಟಿಗೆ ಕಳುಹಿಸಲು ನನ್ನದೇನೂ ಅಭ್ಯಂತರವಿಲ್ಲ ಎಂದು ಜಮದಗ್ನಿ ಹೇಳುತ್ತಾನೆ. ಆಗ ಕಾರ್ತವೀರ್ಯರಾಜ ದೇವತೆಗಳ ಬಳಿ ಕೇಳಿಕೊಳ್ಳುತ್ತಾನೆ. ಆದರೆ, ದೇವತೆಗಳು ಒಪ್ಪುವುದಿಲ್ಲ. ಇದರ ಪರಿಣಾಮ ಬ್ರಹ್ಮ ಕುಲಕ್ಕೂ ಮತ್ತು ಕ್ಷತ್ರಿಯ ಕುಲಕ್ಕೂ ಸಂಘರ್ಷ ಏರ್ಪಡುತ್ತದೆ. ಕ್ಷಾತ್ರನಾದ ಕಾರ್ತವೀರ್ಯರಾಜ ಈ ಸಂಘರ್ಷದಲ್ಲಿ ಸೋಲನುಭವಿಸಿದನಾದರೂ ಆಕೆಯನ್ನು ಪಡೆಯಲೇಬೇಕೆಂಬ ಹಠ ಮಾತ್ರ ಬಿಡಲಿಲ್ಲ. ಕೃದ್ಧನಾಗಿ ಜಮದಗ್ನಿಯನ್ನು ಕೊಂದು ಕಾಮಧೇನುವನ್ನು ಹೊತ್ತೊಯ್ಯುತ್ತಾನೆ ಕಾರ್ತವೀರ್ಯರಾಜ. ಈ ವಿಚಾರವನ್ನು ರೇಣುಕಾದೇವಿ ತನ್ನ ಮಗ ಪರಶುರಾಮನಿಗೆ ತಿಳಿಸುತ್ತಾಳೆ. ಆಗ, ಪರಶುರಾಮ ಶಪಥವೊಂದನ್ನು ಮಾಡುತ್ತಾನೆ.\\n"
+                },
+                {
+                    "id": 180952,
+                    "contents": "Horsepower\nHorsepower Horsepower (hp) is a unit of measurement of power (the rate at which work is done). There are many different standards and types of horsepower. Two common definitions being used today are the mechanical horsepower (or imperial horsepower), which is about 745.7 watts, and the metric horsepower, which is approximately 735.5 watts. The term was adopted in the late 18th century by Scottish engineer James Watt to compare the output of steam engines with the power of draft horses. It was later expanded to include the output power of other types of piston engines, as well as turbines, electric\\n"
+                },
+                {
+                    "id": 13654123,
+                    "contents": "Reports from the Holocaust: The Making of an AIDS Activist\ntasks. As Kramer states in a 1987 speech contained in the volume: Power is little pieces of paper on the floor. No one picks them up. Ten people walk by and no one picks up the piece of paper on the floor. The eleventh person walks by and is tired of looking at it, and so he bends down and picks it up. The next day he does the same thing. And soon he's in charge of picking up the paper. And he's got a lot of pieces of paper that he's picked up. Now- think of those pieces of\\n"
+                },
+                {
+                    "id": 1891131,
+                    "contents": "Ĥ\nĤ Ĥ or ĥ is a consonant in Esperanto orthography, representing a voiceless velar fricative or voiceless uvular fricative . Its name in Esperanto is \"ĥo\" (pronounced ). It is also used in the revised Demers/Blanchet/St Onge orthography for Chinook Jargon. In the case of the minuscule, some fonts place the circumflex centred above the entire base letter h, others over the riser of the letter, and others over the shoulder. Ĥ was always the least used Esperanto letter (though it usually has more dictionary entries than ĵ), and most of its uses are in Greek etyms, where it represented\\n"
+                },
+                {
+                    "id": 9268350,
+                    "contents": "System\nSystem A system is a regularly interacting or interdependent group of units forming an integrated whole. Every system is delineated by its spatial and temporal boundaries, surrounded and influenced by its environment, described by its structure and purpose and expressed in its functioning. The term \"system\" comes from the Latin word \"systēma\", in turn from Greek \"systēma\": \"whole concept made of several parts or members, system\", literary \"composition\". According to Marshall McLuhan, \"System\" means \"something to look at\". You must have a very high visual gradient to have systematization. But in philosophy, prior to Descartes, there was no \"system\". Plato\\n"
+                },
+                {
+                    "id": 10600768,
+                    "contents": "Operational Reactor Safeguard Examination\nOperational Reactor Safeguard Examination An Operational Reactor Safeguard Examination (ORSE) is an examination conducted by senior United States Navy personnel on board U.S. Navy nuclear-powered ships, specifically supercarriers and submarines. The purpose of an ORSE is to ensure that the engineering (submarines) or reactor (aircraft carriers) department of a nuclear-powered vessel is operating their reactor(s) in a safe manner. The exam also ensures the readiness of the engineering department to safely respond to nuclear power plant casualties. The ORSE board is made up of 3 junior board members (prior Engineers/Reactor Officers) and a senior board member (a prior commanding officer)\\n"
+                }
+            ],
+            "pred": "H orse power  system operational reactor safeguard examination  operational reactor safeguard examination  operational reactor safeguard examination  system  system  system  system  system  system  system  system  system  system  system  system  system  system  system  system  system  system  system",
+            "raw_pred": "H orse power  system operational reactor safeguard examination  operational reactor safeguard examination  operational reactor safeguard examination  system  system  system  system  system  system  system  system  system  system  system  system  system  system  system  system  system  system  system",
+            "metric_score": {
+                "em": 0.0,
+                "f1": 0,
+                "acc": 0.0
+            }
+        }
+    },
+    {
+        "id": "test_5",
+        "question": "who wrote the first declaration of human rights",
+        "golden_answers": [
+            "Cyrus"
+        ],
+        "output": {
+            "retrieval_result": [
+                {
+                    "id": 4277192,
+                    "contents": "Kyōiku kanji\n最 量 景 晴 暗 暖 暴 曜 月 木 札 材 村 板 林 松 枚 枝 相 査 染 柱 格 校 根 株 械 植 棒 森 模 歌 止 整 死 列 段 母 毒 比 毛 氏 水 池 汽 法 治 波 油 注 河 泣 沿 泳 洋 活 派 洗 流 消 酒 浴 深 混 清 液 港 測 湖 源 演 潮 激 火 然 照 熟 燃 受 父 片 版 牛 物 牧 特 犬 犯 王 玉 班 理 球 望 生 用 田 男 町 思界\\n"
+                },
+                {
+                    "id": 6799133,
+                    "contents": "Uppar\nಕಾಮಧೇನು. ಆ ಕಾಮಧೇನುವೇ ಅರಸ ಮತ್ತು ಆತನ ಸೈನ್ಯಕ್ಕೆ ಪುಷ್ಕಳ ಭೋಜನ ನೀಡಿದ್ದನ್ನು ಆತ ಜಮದಗ್ನಿಯಿಂದ ತಿಳಿದುಕೊಳ್ಳುತ್ತಾನೆ. ಈ ಸಂದರ್ಭದಲ್ಲಿ ಕಾಮಧೇನುವಿನ ಬಗ್ಗೆ ಆಸಕ್ತಿ ತಾಳಿದ ಕಾರ್ತವೀರ್ಯ ರಾಜ, ಇಂತಹ ಕಾಮಧೇನು ಅರಮನೆಯಲ್ಲಿ ಚಕ್ರವರ್ತಿಗಳ ಬಳಿ ಇರಬೇಕಾದವಳು ಕಾಡಿನಲ್ಲಿ ಏಕೆ ಇದ್ದಾಳೆ? ಎಂದು ಪ್ರಶ್ನಿಸಿ ಅದನ್ನು ತನ್ನೊಟ್ಟಿಗೆ ಕಳುಹಿಸಿಕೊಡುವಂತೆ ಜಮದಗ್ನಿಯಲ್ಲಿ ಕೇಳುತ್ತಾನೆ. ಕಾಮಧೇನುವನ್ನು ದೇವತೆಗಳು ನನಗೆ ವರವಾಗಿ ಕೊಟ್ಟಿದ್ದಾರೆ. ಹಸ್ತಾಂತರಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ. ದೇವತೆಗಳನ್ನು ಕೇಳಿ, ಅವರು ಒಪ್ಪಿದರೆ ಕಾಮಧೇನುವನ್ನು ನಿಮ್ಮೊಟ್ಟಿಗೆ ಕಳುಹಿಸಲು ನನ್ನದೇನೂ ಅಭ್ಯಂತರವಿಲ್ಲ ಎಂದು ಜಮದಗ್ನಿ ಹೇಳುತ್ತಾನೆ. ಆಗ ಕಾರ್ತವೀರ್ಯರಾಜ ದೇವತೆಗಳ ಬಳಿ ಕೇಳಿಕೊಳ್ಳುತ್ತಾನೆ. ಆದರೆ, ದೇವತೆಗಳು ಒಪ್ಪುವುದಿಲ್ಲ. ಇದರ ಪರಿಣಾಮ ಬ್ರಹ್ಮ ಕುಲಕ್ಕೂ ಮತ್ತು ಕ್ಷತ್ರಿಯ ಕುಲಕ್ಕೂ ಸಂಘರ್ಷ ಏರ್ಪಡುತ್ತದೆ. ಕ್ಷಾತ್ರನಾದ ಕಾರ್ತವೀರ್ಯರಾಜ ಈ ಸಂಘರ್ಷದಲ್ಲಿ ಸೋಲನುಭವಿಸಿದನಾದರೂ ಆಕೆಯನ್ನು ಪಡೆಯಲೇಬೇಕೆಂಬ ಹಠ ಮಾತ್ರ ಬಿಡಲಿಲ್ಲ. ಕೃದ್ಧನಾಗಿ ಜಮದಗ್ನಿಯನ್ನು ಕೊಂದು ಕಾಮಧೇನುವನ್ನು ಹೊತ್ತೊಯ್ಯುತ್ತಾನೆ ಕಾರ್ತವೀರ್ಯರಾಜ. ಈ ವಿಚಾರವನ್ನು ರೇಣುಕಾದೇವಿ ತನ್ನ ಮಗ ಪರಶುರಾಮನಿಗೆ ತಿಳಿಸುತ್ತಾಳೆ. ಆಗ, ಪರಶುರಾಮ ಶಪಥವೊಂದನ್ನು ಮಾಡುತ್ತಾನೆ.\\n"
+                },
+                {
+                    "id": 2430921,
+                    "contents": "John (given name)\nis Juan, and the Cornish is Yowann. In Hungarian, Johannes became János, and in the Slavic languages Ivan, Jan, Ján, Honza, Janez and Jovan. In Albanian, Gjoni , Xhon, Xhoni and Jovan is used for males. John has been a common given name in English-speaking countries, and either it or William was the number one name in England and English-speaking North America from around 1550 until the middle of the 20th century. John was the most popular name given to male infants in the United States until 1924, and though its use has fallen off gradually since then, John was\\n"
+                },
+                {
+                    "id": 7954264,
+                    "contents": "Humphrey the Whale\nPostgraduate School in Monterey, California, where one of the few high-power J-11 underwater transducers existed in the country. Pless and his colleague Dale Galarowicz quickly gained Navy permission and rushed the equipment to Rio Vista where Humphrey was last seen. Early the next morning, the equipment was loaded onto the private yacht, Boot Legger, donated by its owner for the rescue effort. Directed to the location in the slough where Humphrey was last seen, the speaker was lowered over the side of the boat, the sounds were played, and Humphrey emerged from the water at the bow of the ship.\\n"
+                },
+                {
+                    "id": 13724126,
+                    "contents": "Peters (surname)\nPeters (surname) Peters is a patronymic surname (Peter's son) of Dutch, English and Low German origin. It can also be an English translation of Gaelic Mac Pheadair (same meaning) or an Americanized form of cognate surnames like Peeters or Pieters.. As of 2014, 34.4% of all known bearers of the surname \"Peters\" were residents of the United States (frequency 1:2,037), 23.6% of Germany (1:658), 6.4% of the Netherlands (1:511), 5.4% of Canada (1:1,328), 5.2% of Nigeria (1:6,574), 4.8% of England (1:2,261), 3.9% of South Africa (1:2,708), 3.1% of Australia (1:1,482), 1.2% of Togo (1:1,226), 1.1% of Sierra Leone (1:1,214) and\\n"
+                },
+                {
+                    "id": 12717660,
+                    "contents": "Hịch tướng sĩ\n聽太常之樂宴饗偽使而無怒色 或鬥雞以為樂或賭博以為娛 或事田園以養其家 或戀妻子以私於己 修生產之業而忘軍國之務 恣田獵之遊而怠攻守之習 或甘美酒或嗜淫聲 脱有蒙韃之寇來 雄雞之距不足以穿虜甲 賭博之術不足以施軍謀 田園之富不足以贖千金之軀 妻拏之累不足以充軍國之用 生產之多不足以購虜首 獵犬之力不足以驅賊眾 美酒不足以沈虜軍 淫聲不足以聾虜耳 當此之時我家臣主就縛甚可痛哉 不唯余之采邑被削 而汝等之俸祿亦為他人之所有 不唯余之家小被驅 而汝等之妻拏亦為他人之所虜 不唯余之祖宗社稷為他人之所踐侵 而汝等之父母墳墓亦為他人之所發掘 不唯余之今生受辱雖百世之下臭名難洗惡謚長存 而汝等之家清亦不免名為敗將矣 當此之時汝等雖欲肆其娛樂 得乎 今余明告汝等 當以措火積薪為危 當以懲羹吹虀為戒 訓練士卒習爾弓矢 使 人人逄蒙家家后羿 購必烈之頭於闕下 朽雲南之肉於杲街 不唯余之采邑永為青氈 而汝等之俸祿亦終身之受賜 不唯余之家小安床褥 而汝等之妻拏亦百年之佳老 不唯余之宗廟萬世享祀 而汝等之祖父亦春秋之血食 不唯余之今生得志 而汝等百世之下芳名不朽 不唯余之美謚永垂 而汝等之姓名亦遺芳於青史矣 當此之時汝等雖欲不為娛樂 得乎 今余歷選諸家兵法為一書名曰兵書要略 汝等 或能專習是書受余教誨是夙世之臣主也 或暴棄是書違余教誨是夙世之仇讎也 何則 蒙韃乃不共戴天之讎 汝等記恬然不以雪恥為念不以除凶為心 而又不教士卒是倒戈迎降空拳受敵 使平虜之後萬世遺羞 上有何面目立於天地覆載之間耶 故欲汝等明知余心因筆以檄云 I have often read the story of Ji Xin who replaced the Emperor Gao of Han to save him from death, of Yao Yu who took a blow in his back to spare King Chao, of Yu Rang who swallowed burning charcoal\\n"
+                },
+                {
+                    "id": 4277189,
+                    "contents": "Kyōiku kanji\n卵 承 垂 刷 重 省 看 勉 七 乳 才 予 事 二 元 亡 六 主 市 交 忘 夜 育 京 卒 商 率 就 人 化 今 仁 付 代 仕 他 令 以 合 全 任 休 件 仲 作 何 位 住 余 低 似 命 使 念 例 供 信 保 便 値 修 借 候 倍 俳 俵 健 停 働 像 先 入 八 分 公 共 弟 並 典 前 益 善 尊 同 周 次 兆 冷 弱 刀 切 別 判 制 券 刻 副 割 力 加\\n"
+                },
+                {
+                    "id": 4277193,
+                    "contents": "Kyōiku kanji\n胃 留 略 病 痛 登 白 的 皇 泉 皮 皿 盛 盟 目 具 眼 矢 知 短 石 砂 破 磁 示 祭 禁 利 私 和 委 季 科 秋 秒 移 税 程 穴 究 空 立 童 竹 笑 第 笛 等 答 策 筋 算 管 箱 米 料 粉 精 糖 素 置 罪 羊 美 差 着 群 羽 翌 老 考 耕 耳 取 有 肉 服 肥 背 肺 胸 期 朝 腹 臣 自 息 至 舌 航 船 良 色 花 苦 若 英 芽 草 茶\\n"
+                },
+                {
+                    "id": 1737808,
+                    "contents": "John Peters Humphrey\nJohn Peters Humphrey John Peters Humphrey, OC (April 30, 1905 – March 14, 1995) was a Canadian legal scholar, jurist, and human rights advocate. He is most famous as the author of the first draft of the Universal Declaration of Human Rights. Humphrey was born to Frank Humphrey and Nellie Peter on April 30, 1905, in Hampton, New Brunswick. His childhood was touched by tragedy as he lost both his parents to cancer and he also lost one of his arms in an accident while playing with fire. Humphrey attended a boarding school where he endured teasing from other students;\\n"
+                }
+            ],
+            "pred": "John Peters Humphrey  旅馆里 1214 人  1905年4月30日-1995年3月14日 他曾因火灾而失去一条胳膊，并且在他年轻的时候失去了双亲  他最著名的是《世界人权宣言》的最初草稿的 作者。  蒙特利尔大学  蒙特利尔  加拿大  蒙特利尔的麦吉尔 大学  蒙特利尔的麦吉尔法学院  联合国教科文组织  联合国经社 理事会  联合国人权高专办事处  联合国人权事务委员会  联合国大会  他是加拿大法律",
+            "raw_pred": "John Peters Humphrey  旅馆里 1214 人  1905年4月30日-1995年3月14日 他曾因火灾而失去一条胳膊，并且在他年轻的时候失去了双亲  他最著名的是《世界人权宣言》的最初草稿的 作者。  蒙特利尔大学  蒙特利尔  加拿大  蒙特利尔的麦吉尔 大学  蒙特利尔的麦吉尔法学院  联合国教科文组织  联合国经社 理事会  联合国人权高专办事处  联合国人权事务委员会  联合国大会  他是加拿大法律",
+            "metric_score": {
+                "em": 0.0,
+                "f1": 0,
+                "acc": 0.0
+            }
+        }
+    },
+    {
+        "id": "test_6",
+        "question": "who is the owner of reading football club",
+        "golden_answers": [
+            "Xiu Li Dai",
+            "Dai Xiuli",
+            "Dai Yongge",
+            "Yongge Dai"
+        ],
+        "output": {
+            "retrieval_result": [
+                {
+                    "id": 16379848,
+                    "contents": "Managed decline\ndecades of the 21st century, of the established churches in western Europe since the 1970s, management of Blackpool FC by Chairman Karl Oyston following the club's single season in The Premier League, and that of an individual's quality of life in their final years as they face old age or terminal illness. Decline can be managed through multiple means, including public or industrial policy efforts such as government provision of retraining. Managed decline Managed decline is a phrase that refers to the management of the decline (or \"sunset\") phase at the end of a lifecycle, with the goal of minimizing\\n"
+                },
+                {
+                    "id": 3779216,
+                    "contents": "Used good\nUsed good A secondhand or used good is a piece of personal property that is being purchased by or otherwise transferred to a second or later end user. A \"used\" good can also simply mean it is no longer in the same condition as it was when transferred to the current owner. When the term \"used\" means that an item has expended its purpose (such as a used diaper), it is typically called garbage, instead. Used goods may be transferred informally between friends and family for free as hand-me-downs. They may be sold for a fraction of their original price\\n"
+                },
+                {
+                    "id": 6799133,
+                    "contents": "Uppar\nಕಾಮಧೇನು. ಆ ಕಾಮಧೇನುವೇ ಅರಸ ಮತ್ತು ಆತನ ಸೈನ್ಯಕ್ಕೆ ಪುಷ್ಕಳ ಭೋಜನ ನೀಡಿದ್ದನ್ನು ಆತ ಜಮದಗ್ನಿಯಿಂದ ತಿಳಿದುಕೊಳ್ಳುತ್ತಾನೆ. ಈ ಸಂದರ್ಭದಲ್ಲಿ ಕಾಮಧೇನುವಿನ ಬಗ್ಗೆ ಆಸಕ್ತಿ ತಾಳಿದ ಕಾರ್ತವೀರ್ಯ ರಾಜ, ಇಂತಹ ಕಾಮಧೇನು ಅರಮನೆಯಲ್ಲಿ ಚಕ್ರವರ್ತಿಗಳ ಬಳಿ ಇರಬೇಕಾದವಳು ಕಾಡಿನಲ್ಲಿ ಏಕೆ ಇದ್ದಾಳೆ? ಎಂದು ಪ್ರಶ್ನಿಸಿ ಅದನ್ನು ತನ್ನೊಟ್ಟಿಗೆ ಕಳುಹಿಸಿಕೊಡುವಂತೆ ಜಮದಗ್ನಿಯಲ್ಲಿ ಕೇಳುತ್ತಾನೆ. ಕಾಮಧೇನುವನ್ನು ದೇವತೆಗಳು ನನಗೆ ವರವಾಗಿ ಕೊಟ್ಟಿದ್ದಾರೆ. ಹಸ್ತಾಂತರಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ. ದೇವತೆಗಳನ್ನು ಕೇಳಿ, ಅವರು ಒಪ್ಪಿದರೆ ಕಾಮಧೇನುವನ್ನು ನಿಮ್ಮೊಟ್ಟಿಗೆ ಕಳುಹಿಸಲು ನನ್ನದೇನೂ ಅಭ್ಯಂತರವಿಲ್ಲ ಎಂದು ಜಮದಗ್ನಿ ಹೇಳುತ್ತಾನೆ. ಆಗ ಕಾರ್ತವೀರ್ಯರಾಜ ದೇವತೆಗಳ ಬಳಿ ಕೇಳಿಕೊಳ್ಳುತ್ತಾನೆ. ಆದರೆ, ದೇವತೆಗಳು ಒಪ್ಪುವುದಿಲ್ಲ. ಇದರ ಪರಿಣಾಮ ಬ್ರಹ್ಮ ಕುಲಕ್ಕೂ ಮತ್ತು ಕ್ಷತ್ರಿಯ ಕುಲಕ್ಕೂ ಸಂಘರ್ಷ ಏರ್ಪಡುತ್ತದೆ. ಕ್ಷಾತ್ರನಾದ ಕಾರ್ತವೀರ್ಯರಾಜ ಈ ಸಂಘರ್ಷದಲ್ಲಿ ಸೋಲನುಭವಿಸಿದನಾದರೂ ಆಕೆಯನ್ನು ಪಡೆಯಲೇಬೇಕೆಂಬ ಹಠ ಮಾತ್ರ ಬಿಡಲಿಲ್ಲ. ಕೃದ್ಧನಾಗಿ ಜಮದಗ್ನಿಯನ್ನು ಕೊಂದು ಕಾಮಧೇನುವನ್ನು ಹೊತ್ತೊಯ್ಯುತ್ತಾನೆ ಕಾರ್ತವೀರ್ಯರಾಜ. ಈ ವಿಚಾರವನ್ನು ರೇಣುಕಾದೇವಿ ತನ್ನ ಮಗ ಪರಶುರಾಮನಿಗೆ ತಿಳಿಸುತ್ತಾಳೆ. ಆಗ, ಪರಶುರಾಮ ಶಪಥವೊಂದನ್ನು ಮಾಡುತ್ತಾನೆ.\\n"
+                },
+                {
+                    "id": 16610554,
+                    "contents": "Anton Zingarevich\nThe couple married in late 2009 and had a child. Anton Zingarevich Anton Zingarevich (Russian: Антон Зингаревич) is a Russian businessman best known for being the former owner of Reading Football Club, who play in the English Championship. Zingarevich's bid to take over the club was announced in January 2012, and he formally purchased the club on 29 May 2012. Since then, Zingarevich has had minimum interest in the running of the club, however did make the decision to sack manager Brian McDermott, and the subsequent employment of Nigel Adkins. Zingarevich is the son of Boris Zingarevich, a Russian multi-billionaire.\\n"
+                },
+                {
+                    "id": 18697758,
+                    "contents": "On An On\nOn An On On An On (usually stylised as ON AN ON) is an American indie rock band, based in Minneapolis, Minnesota. The band was formed by Nate Eiesland, Alissa Ricci and Ryne Estwing after the dissolution of their previous band, Scattered Trees, in 2012. On An On released their debut album \"Give In\" in 2013 and their second album \"And the Wave Has Two Sides\" was released in July 2015. The band went on hiatus in 2016. On An On was formed by Scattered Trees members Nate Eiesland, Alissa Ricci and Ryne Estwing in March 2012. The threesome discussed\\n"
+                },
+                {
+                    "id": 25063,
+                    "contents": "Ant\nAnts thrive in most ecosystems and may form 15–25% of the terrestrial animal biomass. Their success in so many environments has been attributed to their social organisation and their ability to modify habitats, tap resources, and defend themselves. Their long co-evolution with other species has led to mimetic, commensal, parasitic, and mutualistic relationships. Ant societies have division of labour, communication between individuals, and an ability to solve complex problems. These parallels with human societies have long been an inspiration and subject of study. Many human cultures make use of ants in cuisine, medication, and rituals. Some species are valued in\\n"
+                },
+                {
+                    "id": 16610550,
+                    "contents": "Anton Zingarevich\nAnton Zingarevich Anton Zingarevich (Russian: Антон Зингаревич) is a Russian businessman best known for being the former owner of Reading Football Club, who play in the English Championship. Zingarevich's bid to take over the club was announced in January 2012, and he formally purchased the club on 29 May 2012. Since then, Zingarevich has had minimum interest in the running of the club, however did make the decision to sack manager Brian McDermott, and the subsequent employment of Nigel Adkins. Zingarevich is the son of Boris Zingarevich, a Russian multi-billionaire. At the age of 16, Zingarevich began education at Bearwood\\n"
+                }
+            ],
+            "pred": "Ant on behalf of Anton Zingarevich  (former owner)  However, he had minimum interest in the running of the club  After Anton Zingarevich, the ownership details are not provided in the given documents ",
+            "raw_pred": "Ant on behalf of Anton Zingarevich  (former owner)  However, he had minimum interest in the running of the club  After Anton Zingarevich, the ownership details are not provided in the given documents ",
+            "metric_score": {
+                "em": 0.0,
+                "f1": 0,
+                "acc": 0.0
+            }
+        }
+    },
+    {
+        "id": "test_7",
+        "question": "when is the next scandal episode coming out",
+        "golden_answers": [
+            "February 1, 2018"
+        ],
+        "output": {
+            "retrieval_result": [
+                {
+                    "id": 6799133,
+                    "contents": "Uppar\nಕಾಮಧೇನು. ಆ ಕಾಮಧೇನುವೇ ಅರಸ ಮತ್ತು ಆತನ ಸೈನ್ಯಕ್ಕೆ ಪುಷ್ಕಳ ಭೋಜನ ನೀಡಿದ್ದನ್ನು ಆತ ಜಮದಗ್ನಿಯಿಂದ ತಿಳಿದುಕೊಳ್ಳುತ್ತಾನೆ. ಈ ಸಂದರ್ಭದಲ್ಲಿ ಕಾಮಧೇನುವಿನ ಬಗ್ಗೆ ಆಸಕ್ತಿ ತಾಳಿದ ಕಾರ್ತವೀರ್ಯ ರಾಜ, ಇಂತಹ ಕಾಮಧೇನು ಅರಮನೆಯಲ್ಲಿ ಚಕ್ರವರ್ತಿಗಳ ಬಳಿ ಇರಬೇಕಾದವಳು ಕಾಡಿನಲ್ಲಿ ಏಕೆ ಇದ್ದಾಳೆ? ಎಂದು ಪ್ರಶ್ನಿಸಿ ಅದನ್ನು ತನ್ನೊಟ್ಟಿಗೆ ಕಳುಹಿಸಿಕೊಡುವಂತೆ ಜಮದಗ್ನಿಯಲ್ಲಿ ಕೇಳುತ್ತಾನೆ. ಕಾಮಧೇನುವನ್ನು ದೇವತೆಗಳು ನನಗೆ ವರವಾಗಿ ಕೊಟ್ಟಿದ್ದಾರೆ. ಹಸ್ತಾಂತರಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ. ದೇವತೆಗಳನ್ನು ಕೇಳಿ, ಅವರು ಒಪ್ಪಿದರೆ ಕಾಮಧೇನುವನ್ನು ನಿಮ್ಮೊಟ್ಟಿಗೆ ಕಳುಹಿಸಲು ನನ್ನದೇನೂ ಅಭ್ಯಂತರವಿಲ್ಲ ಎಂದು ಜಮದಗ್ನಿ ಹೇಳುತ್ತಾನೆ. ಆಗ ಕಾರ್ತವೀರ್ಯರಾಜ ದೇವತೆಗಳ ಬಳಿ ಕೇಳಿಕೊಳ್ಳುತ್ತಾನೆ. ಆದರೆ, ದೇವತೆಗಳು ಒಪ್ಪುವುದಿಲ್ಲ. ಇದರ ಪರಿಣಾಮ ಬ್ರಹ್ಮ ಕುಲಕ್ಕೂ ಮತ್ತು ಕ್ಷತ್ರಿಯ ಕುಲಕ್ಕೂ ಸಂಘರ್ಷ ಏರ್ಪಡುತ್ತದೆ. ಕ್ಷಾತ್ರನಾದ ಕಾರ್ತವೀರ್ಯರಾಜ ಈ ಸಂಘರ್ಷದಲ್ಲಿ ಸೋಲನುಭವಿಸಿದನಾದರೂ ಆಕೆಯನ್ನು ಪಡೆಯಲೇಬೇಕೆಂಬ ಹಠ ಮಾತ್ರ ಬಿಡಲಿಲ್ಲ. ಕೃದ್ಧನಾಗಿ ಜಮದಗ್ನಿಯನ್ನು ಕೊಂದು ಕಾಮಧೇನುವನ್ನು ಹೊತ್ತೊಯ್ಯುತ್ತಾನೆ ಕಾರ್ತವೀರ್ಯರಾಜ. ಈ ವಿಚಾರವನ್ನು ರೇಣುಕಾದೇವಿ ತನ್ನ ಮಗ ಪರಶುರಾಮನಿಗೆ ತಿಳಿಸುತ್ತಾಳೆ. ಆಗ, ಪರಶುರಾಮ ಶಪಥವೊಂದನ್ನು ಮಾಡುತ್ತಾನೆ.\\n"
+                },
+                {
+                    "id": 6799135,
+                    "contents": "Uppar\nಓಡಿ ಹೋದ ಕ್ಷತ್ರಿಯರು ಅಲ್ಲಲ್ಲಿ ನೆಲೆಯೂರಿದರು. ಜವಳು ಭೂಮಿ ಮತ್ತು ಸಮುದ್ರದಂಡೆಯಲ್ಲಿ ಉಪ್ಪು ತಯಾರಿಕೆಯಲ್ಲಿ ತೊಡಗಿದರು. ಹೀಗಾಗಿಯೇ ಅವರು ಉಪ್ಪಾರರಾದರು. ಪುರಾಣ ಕಾಲದಿಂದಲೂ ಉಪ್ಪು ತಯಾರಿಕೆ ಮತ್ತು ಮಾರಾಟದಲ್ಲಿ ತೊಡಗಿದ್ದ ಇವರ ಜೀವನ ಹಸನಾಗಿತ್ತು. ಆದರೆ, ದೇಶಕ್ಕೆ ಬ್ರಿಟಿಷರು ದಂಡೆತ್ತಿ ಬಂದಾಗ ಉಪ್ಪು ತಯಾರಿಕೆ ಒಂದು ಉದ್ಯಮವಾಗಿ ಕಂಡಿತು. ವ್ಯಾಪಾರೀ ಮನೋಭಾವದ ಬ್ರಿಟಿಷರು ದೇಶದಲ್ಲಿ ಉಪ್ಪು ತಯಾರಿಕೆ ಮೇಲೆ 1880 ರಲ್ಲಿ ನಿಷೇಧ ಹೇರಿದರು. ಇದರ ಪರಿಣಾಮ ಉಪ್ಪಾರರ ಬದುಕು ಬೀದಿಗೆ ಬಿತ್ತು. ಹೀಗಾಗಿ ಸಮುದಾಯದ ಬಹುಪಾಲು ಕುಟುಂಬಗಳು ಕೃಷಿಯನ್ನು ಅವಲಂಬಿಸಿದರೆ, ಮತ್ತೆ ಹಲವು ಕುಟುಂಬಗಳು ಕೂಲಿ ಕಾರ್ಮಿಕರಾಗಿ ಜೀವನ ನಡೆಸುತ್ತಾ ಬಂದರು. ಅವರ ಈ ಪರಿಸ್ಥಿತಿ ಇಂದಿಗೂ ಮುಂದುವರೆದಿದೆ. ರಾಜ್ಯದಲ್ಲಿ ಉಪ್ಪಾರರ ಸಂಖ್ಯೆ ಸುಮಾರು 15 ಲಕ್ಷಕ್ಕೂ ಅಧಿಕ ಇದೆ. ಚಾಮರಾಜನಗರ, ಮೈಸೂರು, ಬೆಳಗಾವಿ, ಚಿತ್ರದುರ್ಗ, ಬಿಜಾಪುರ, ಕೊಪ್ಪಳ, ಬಳ್ಳಾರಿ, ತುಮಕೂರು, ಶಿವಮೊಗ್ಗ, ದಾವಣಗೆರೆ ಜಿಲ್ಲೆಗಳಲ್ಲಿ ಹೆಚ್ಚಾಗಿ ಕಂಡುಬರುವ ಉಪ್ಪಾರರು ಎಲ್ಲಾ ತಾಲೂಕುಗಳಲ್ಲಿ ವಾಸವಾಗಿದ್ದಾರೆ. ಉಪ್ಪಾರ, ಬೆಲ್ದರ್, ಲೋನಾರಿ, ಮೇಲುಸಕ್ಕರೆಯವರು,\\n"
+                },
+                {
+                    "id": 10749664,
+                    "contents": "Beeny\nThe pale mews plained below us, and the waves seemed far away In a nether sky, engrossed in saying their ceaseless babbling say, As we laughed light-heartedly aloft on that clear-sunned March day. A little cloud then cloaked us, and there flew an irised rain. And the Atlantic dyed its levels with a dull misfeatured stain, And then the sun burst out again, and purples prinked the main. - Still in all its chasmal beauty bulks old Beeny to the sky, And shall she and I not go there once again now March is nigh, And the sweet things said\\n"
+                },
+                {
+                    "id": 18971106,
+                    "contents": "The Walking Dead (season 7)\nThe Walking Dead (season 7) The seventh season of \"The Walking Dead\", an American post-apocalyptic horror television series on AMC, premiered on October 23, 2016, and concluded on April 2, 2017, consisting of 16 episodes. Developed for television by Frank Darabont, the series is based on the eponymous series of comic books by Robert Kirkman, Tony Moore, and Charlie Adlard. The executive producers are Kirkman, David Alpert, Scott M. Gimple, Greg Nicotero, Tom Luse, and Gale Anne Hurd, with Gimple as showrunner for the fourth consecutive season. The seventh season received mixed reviews from critics. It was nominated for multiple\\n"
+                },
+                {
+                    "id": 15628899,
+                    "contents": "Scandal (TV series)\nin a blind emergency trust and uses that money to reinstate B613 herself. Olivia becomes Command at the end of the season and considers herself the most powerful person in the world. On February 10, 2017, ABC renewed \"Scandal\" for a seventh season; on May 10, 2017, it was announced that this season would be the show's last. On January 3, 2018, a crossover with \"How to Get Away with Murder\" was announced, which aired on March 1, 2018, with Viola Davis and Aja Naomi King guest starring. In early 2011, it was announced that Shonda Rhimes was developing a\\n"
+                }
+            ],
+            "pred": "March  1, 2018  (The crossover with \"How to Get Away with Murder\" aired on this date, which was the last episode of Scandal)  2017  (Season 7 was announced and planned for 2017 but the show ended before the new season could air)  2018  (The last season of Scandal aired in 2018) ",
+            "raw_pred": "March  1, 2018  (The crossover with \"How to Get Away with Murder\" aired on this date, which was the last episode of Scandal)  2017  (Season 7 was announced and planned for 2017 but the show ended before the new season could air)  2018  (The last season of Scandal aired in 2018) ",
+            "metric_score": {
+                "em": 0.0,
+                "f1": 0.08163265306122448,
+                "acc": 0.0
+            }
+        }
+    },
+    {
+        "id": "test_8",
+        "question": "when is the last time the philadelphia won the superbowl",
+        "golden_answers": [
+            "Super Bowl LII,",
+            "2017"
+        ],
+        "output": {
+            "retrieval_result": [
+                {
+                    "id": 6799135,
+                    "contents": "Uppar\nಓಡಿ ಹೋದ ಕ್ಷತ್ರಿಯರು ಅಲ್ಲಲ್ಲಿ ನೆಲೆಯೂರಿದರು. ಜವಳು ಭೂಮಿ ಮತ್ತು ಸಮುದ್ರದಂಡೆಯಲ್ಲಿ ಉಪ್ಪು ತಯಾರಿಕೆಯಲ್ಲಿ ತೊಡಗಿದರು. ಹೀಗಾಗಿಯೇ ಅವರು ಉಪ್ಪಾರರಾದರು. ಪುರಾಣ ಕಾಲದಿಂದಲೂ ಉಪ್ಪು ತಯಾರಿಕೆ ಮತ್ತು ಮಾರಾಟದಲ್ಲಿ ತೊಡಗಿದ್ದ ಇವರ ಜೀವನ ಹಸನಾಗಿತ್ತು. ಆದರೆ, ದೇಶಕ್ಕೆ ಬ್ರಿಟಿಷರು ದಂಡೆತ್ತಿ ಬಂದಾಗ ಉಪ್ಪು ತಯಾರಿಕೆ ಒಂದು ಉದ್ಯಮವಾಗಿ ಕಂಡಿತು. ವ್ಯಾಪಾರೀ ಮನೋಭಾವದ ಬ್ರಿಟಿಷರು ದೇಶದಲ್ಲಿ ಉಪ್ಪು ತಯಾರಿಕೆ ಮೇಲೆ 1880 ರಲ್ಲಿ ನಿಷೇಧ ಹೇರಿದರು. ಇದರ ಪರಿಣಾಮ ಉಪ್ಪಾರರ ಬದುಕು ಬೀದಿಗೆ ಬಿತ್ತು. ಹೀಗಾಗಿ ಸಮುದಾಯದ ಬಹುಪಾಲು ಕುಟುಂಬಗಳು ಕೃಷಿಯನ್ನು ಅವಲಂಬಿಸಿದರೆ, ಮತ್ತೆ ಹಲವು ಕುಟುಂಬಗಳು ಕೂಲಿ ಕಾರ್ಮಿಕರಾಗಿ ಜೀವನ ನಡೆಸುತ್ತಾ ಬಂದರು. ಅವರ ಈ ಪರಿಸ್ಥಿತಿ ಇಂದಿಗೂ ಮುಂದುವರೆದಿದೆ. ರಾಜ್ಯದಲ್ಲಿ ಉಪ್ಪಾರರ ಸಂಖ್ಯೆ ಸುಮಾರು 15 ಲಕ್ಷಕ್ಕೂ ಅಧಿಕ ಇದೆ. ಚಾಮರಾಜನಗರ, ಮೈಸೂರು, ಬೆಳಗಾವಿ, ಚಿತ್ರದುರ್ಗ, ಬಿಜಾಪುರ, ಕೊಪ್ಪಳ, ಬಳ್ಳಾರಿ, ತುಮಕೂರು, ಶಿವಮೊಗ್ಗ, ದಾವಣಗೆರೆ ಜಿಲ್ಲೆಗಳಲ್ಲಿ ಹೆಚ್ಚಾಗಿ ಕಂಡುಬರುವ ಉಪ್ಪಾರರು ಎಲ್ಲಾ ತಾಲೂಕುಗಳಲ್ಲಿ ವಾಸವಾಗಿದ್ದಾರೆ. ಉಪ್ಪಾರ, ಬೆಲ್ದರ್, ಲೋನಾರಿ, ಮೇಲುಸಕ್ಕರೆಯವರು,\\n"
+                },
+                {
+                    "id": 6799133,
+                    "contents": "Uppar\nಕಾಮಧೇನು. ಆ ಕಾಮಧೇನುವೇ ಅರಸ ಮತ್ತು ಆತನ ಸೈನ್ಯಕ್ಕೆ ಪುಷ್ಕಳ ಭೋಜನ ನೀಡಿದ್ದನ್ನು ಆತ ಜಮದಗ್ನಿಯಿಂದ ತಿಳಿದುಕೊಳ್ಳುತ್ತಾನೆ. ಈ ಸಂದರ್ಭದಲ್ಲಿ ಕಾಮಧೇನುವಿನ ಬಗ್ಗೆ ಆಸಕ್ತಿ ತಾಳಿದ ಕಾರ್ತವೀರ್ಯ ರಾಜ, ಇಂತಹ ಕಾಮಧೇನು ಅರಮನೆಯಲ್ಲಿ ಚಕ್ರವರ್ತಿಗಳ ಬಳಿ ಇರಬೇಕಾದವಳು ಕಾಡಿನಲ್ಲಿ ಏಕೆ ಇದ್ದಾಳೆ? ಎಂದು ಪ್ರಶ್ನಿಸಿ ಅದನ್ನು ತನ್ನೊಟ್ಟಿಗೆ ಕಳುಹಿಸಿಕೊಡುವಂತೆ ಜಮದಗ್ನಿಯಲ್ಲಿ ಕೇಳುತ್ತಾನೆ. ಕಾಮಧೇನುವನ್ನು ದೇವತೆಗಳು ನನಗೆ ವರವಾಗಿ ಕೊಟ್ಟಿದ್ದಾರೆ. ಹಸ್ತಾಂತರಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ. ದೇವತೆಗಳನ್ನು ಕೇಳಿ, ಅವರು ಒಪ್ಪಿದರೆ ಕಾಮಧೇನುವನ್ನು ನಿಮ್ಮೊಟ್ಟಿಗೆ ಕಳುಹಿಸಲು ನನ್ನದೇನೂ ಅಭ್ಯಂತರವಿಲ್ಲ ಎಂದು ಜಮದಗ್ನಿ ಹೇಳುತ್ತಾನೆ. ಆಗ ಕಾರ್ತವೀರ್ಯರಾಜ ದೇವತೆಗಳ ಬಳಿ ಕೇಳಿಕೊಳ್ಳುತ್ತಾನೆ. ಆದರೆ, ದೇವತೆಗಳು ಒಪ್ಪುವುದಿಲ್ಲ. ಇದರ ಪರಿಣಾಮ ಬ್ರಹ್ಮ ಕುಲಕ್ಕೂ ಮತ್ತು ಕ್ಷತ್ರಿಯ ಕುಲಕ್ಕೂ ಸಂಘರ್ಷ ಏರ್ಪಡುತ್ತದೆ. ಕ್ಷಾತ್ರನಾದ ಕಾರ್ತವೀರ್ಯರಾಜ ಈ ಸಂಘರ್ಷದಲ್ಲಿ ಸೋಲನುಭವಿಸಿದನಾದರೂ ಆಕೆಯನ್ನು ಪಡೆಯಲೇಬೇಕೆಂಬ ಹಠ ಮಾತ್ರ ಬಿಡಲಿಲ್ಲ. ಕೃದ್ಧನಾಗಿ ಜಮದಗ್ನಿಯನ್ನು ಕೊಂದು ಕಾಮಧೇನುವನ್ನು ಹೊತ್ತೊಯ್ಯುತ್ತಾನೆ ಕಾರ್ತವೀರ್ಯರಾಜ. ಈ ವಿಚಾರವನ್ನು ರೇಣುಕಾದೇವಿ ತನ್ನ ಮಗ ಪರಶುರಾಮನಿಗೆ ತಿಳಿಸುತ್ತಾಳೆ. ಆಗ, ಪರಶುರಾಮ ಶಪಥವೊಂದನ್ನು ಮಾಡುತ್ತಾನೆ.\\n"
+                },
+                {
+                    "id": 17473813,
+                    "contents": "Super Bowl LII\nSuper Bowl LII Super Bowl LII was an American football game played to determine the champion of the National Football League (NFL) for the 2017 season. The National Football Conference (NFC) champion Philadelphia Eagles defeated the American Football Conference (AFC) and defending Super Bowl LI champion New England Patriots, 41–33, to win their first Super Bowl and their first NFL title since 1960. The game was played on February 4, 2018, at U.S. Bank Stadium in Minneapolis, Minnesota. This was the second time that a Super Bowl was played in Minneapolis, the northernmost city to ever host the event, after\\n"
+                },
+                {
+                    "id": 313804,
+                    "contents": "Philadelphia Eagles\nPhiladelphia Eagles The Philadelphia Eagles are a professional American football franchise based in Philadelphia, Pennsylvania. The Eagles compete in the National Football League (NFL) as a member club of the league's National Football Conference (NFC) East division. They are Super Bowl champions, having won Super Bowl LII; their first Super Bowl in franchise history, and their fourth NFL title overall, after winning the Championship Game in 1948, 1949, and 1960. The franchise was established in 1933 as a replacement for the bankrupt Frankford Yellow Jackets, when a group led by Bert Bell secured the rights to an NFL franchise in\\n"
+                },
+                {
+                    "id": 610775,
+                    "contents": "Philadelphia\nPlace became the first building to surpass the height of the William Penn statue on top of City Hall's tower in 1987. After ten years passed without another championship, the Eagles won their first Super Bowl in 2018. In 2004, ESPN placed Philadelphia second on its list of The Fifteen Most Tortured Sports Cities. Fans of the Eagles and Phillies were singled out as the worst fans in the country by \"GQ\" magazine in 2011, which used the subtitle of \"Meanest Fans in America\" to summarize incidents of drunken behavior and a history of booing. Major professional sports teams that\\n"
+                },
+                {
+                    "id": 313851,
+                    "contents": "Philadelphia Eagles\nRedskins during the 2017 season for the first time since the 2013 season. The Eagles and Pittsburgh Steelers are both located in Pennsylvania and began play in 1933. From that season, through 1966, this was a major rivalry for both teams as both were part of the same division. In 1967, they were placed in separate divisions but remained in the same conference for three years. In 1970, the Steelers (along with the Cleveland Browns and Baltimore Colts) moved to the American Football Conference while the Eagles stayed with the rest of the old-line NFL teams in the National Football\\n"
+                }
+            ],
+            "pred": "2018  2018 was the last time the Philadelphia Eagles won the Super Bowl  2018  2018 was the last time the Philadelphia Eagles won the Super Bowl  2018  2018 was the last time the Philadelphia Eagles won the Super Bowl  2018  20",
+            "raw_pred": "2018  2018 was the last time the Philadelphia Eagles won the Super Bowl  2018  2018 was the last time the Philadelphia Eagles won the Super Bowl  2018  2018 was the last time the Philadelphia Eagles won the Super Bowl  2018  20",
+            "metric_score": {
+                "em": 0.0,
+                "f1": 0.11428571428571428,
+                "acc": 0.0
+            }
+        }
+    },
+    {
+        "id": "test_9",
+        "question": "who was the first lady nominated member of the rajya sabha",
+        "golden_answers": [
+            "Mary Kom"
+        ],
+        "output": {
+            "retrieval_result": [
+                {
+                    "id": 3284627,
+                    "contents": "Smriti Irani\nof EC and DU to bring the records of Ms. Irani's qualifications after he said he was unable to place them before the court. During the hearings of the complaint, the court was told by a poll panel official that the documents filed by Ms. Irani regarding her educational qualification while filing nominations were not traceable. Also, in pursuance of the court's earlier direction, Delhi University had also submitted that the documents pertaining to Ms. Irani's BA course in 1996, as purportedly mentioned by her in an affidavit filed during 2004 Lok Sabha elections, were yet to be found. On\\n"
+                },
+                {
+                    "id": 10047771,
+                    "contents": "Dead File\nletter says. Short of releasing and clearing, these mad dogs don't change their froth.\" SP names are also put into the Dead File and given an additional rubber stamp. From page 8: \"All suppressive persons and groups are filed in the DEAD FILE but with the Ethics Order. The Ethics Order is stamped with the ENTHETA stamp as above but with the additional stamp \"Suppressive\".\" Potential Trouble Sources are spared the Dead File if they handle or disconnect from the SP.\"A potential trouble source order is not given the entheta DEAD FILE routing unless the person refuses to disconnect or\\n"
+                },
+                {
+                    "id": 11199756,
+                    "contents": "Devīsūkta\nthe libation and deserving of careful protection\". [[File:Devisukta tritiya shloka.png]] 3. I am the sovereign queen (of all Existence), the collectress of treasures, cognizant of (the Supreme Being), the chief object of worship; as such, the gods have put me in many places, abiding in manifold conditions, entering into numerous (forms). [[File:Devisukta chaturtha shloka.png]] 4. He who eats food (eats) through me; he who sees, who breathes, who hears what is spoken, does so through me; those who are ignorant of me, perish; hearken who is capable of hearing, I tell you that which is deserving of belief. [[File:Devisukta panchama\\n"
+                },
+                {
+                    "id": 6799133,
+                    "contents": "Uppar\nಕಾಮಧೇನು. ಆ ಕಾಮಧೇನುವೇ ಅರಸ ಮತ್ತು ಆತನ ಸೈನ್ಯಕ್ಕೆ ಪುಷ್ಕಳ ಭೋಜನ ನೀಡಿದ್ದನ್ನು ಆತ ಜಮದಗ್ನಿಯಿಂದ ತಿಳಿದುಕೊಳ್ಳುತ್ತಾನೆ. ಈ ಸಂದರ್ಭದಲ್ಲಿ ಕಾಮಧೇನುವಿನ ಬಗ್ಗೆ ಆಸಕ್ತಿ ತಾಳಿದ ಕಾರ್ತವೀರ್ಯ ರಾಜ, ಇಂತಹ ಕಾಮಧೇನು ಅರಮನೆಯಲ್ಲಿ ಚಕ್ರವರ್ತಿಗಳ ಬಳಿ ಇರಬೇಕಾದವಳು ಕಾಡಿನಲ್ಲಿ ಏಕೆ ಇದ್ದಾಳೆ? ಎಂದು ಪ್ರಶ್ನಿಸಿ ಅದನ್ನು ತನ್ನೊಟ್ಟಿಗೆ ಕಳುಹಿಸಿಕೊಡುವಂತೆ ಜಮದಗ್ನಿಯಲ್ಲಿ ಕೇಳುತ್ತಾನೆ. ಕಾಮಧೇನುವನ್ನು ದೇವತೆಗಳು ನನಗೆ ವರವಾಗಿ ಕೊಟ್ಟಿದ್ದಾರೆ. ಹಸ್ತಾಂತರಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ. ದೇವತೆಗಳನ್ನು ಕೇಳಿ, ಅವರು ಒಪ್ಪಿದರೆ ಕಾಮಧೇನುವನ್ನು ನಿಮ್ಮೊಟ್ಟಿಗೆ ಕಳುಹಿಸಲು ನನ್ನದೇನೂ ಅಭ್ಯಂತರವಿಲ್ಲ ಎಂದು ಜಮದಗ್ನಿ ಹೇಳುತ್ತಾನೆ. ಆಗ ಕಾರ್ತವೀರ್ಯರಾಜ ದೇವತೆಗಳ ಬಳಿ ಕೇಳಿಕೊಳ್ಳುತ್ತಾನೆ. ಆದರೆ, ದೇವತೆಗಳು ಒಪ್ಪುವುದಿಲ್ಲ. ಇದರ ಪರಿಣಾಮ ಬ್ರಹ್ಮ ಕುಲಕ್ಕೂ ಮತ್ತು ಕ್ಷತ್ರಿಯ ಕುಲಕ್ಕೂ ಸಂಘರ್ಷ ಏರ್ಪಡುತ್ತದೆ. ಕ್ಷಾತ್ರನಾದ ಕಾರ್ತವೀರ್ಯರಾಜ ಈ ಸಂಘರ್ಷದಲ್ಲಿ ಸೋಲನುಭವಿಸಿದನಾದರೂ ಆಕೆಯನ್ನು ಪಡೆಯಲೇಬೇಕೆಂಬ ಹಠ ಮಾತ್ರ ಬಿಡಲಿಲ್ಲ. ಕೃದ್ಧನಾಗಿ ಜಮದಗ್ನಿಯನ್ನು ಕೊಂದು ಕಾಮಧೇನುವನ್ನು ಹೊತ್ತೊಯ್ಯುತ್ತಾನೆ ಕಾರ್ತವೀರ್ಯರಾಜ. ಈ ವಿಚಾರವನ್ನು ರೇಣುಕಾದೇವಿ ತನ್ನ ಮಗ ಪರಶುರಾಮನಿಗೆ ತಿಳಿಸುತ್ತಾಳೆ. ಆಗ, ಪರಶುರಾಮ ಶಪಥವೊಂದನ್ನು ಮಾಡುತ್ತಾನೆ.\\n"
+                },
+                {
+                    "id": 17307074,
+                    "contents": "The Truth: Gujarat 2002\nother than duplicity was probably not available: \"When a subject hesitated during an interview, Khetan said: 'I won't quote it anywhere ... For that matter ... I am not even going to quote you' and immediately after the reporter promised that, the interviewee made a chilling admission: Narendra Modi, the Chief Minister of Gujarat, had given the Hindu chauvinists three days to do whatever they wanted without government interference. Obviously the fact that the sitting Chief Minister of a state participated in communal violence is a matter that the public must know about, but I can see no way that\\n"
+                },
+                {
+                    "id": 1774448,
+                    "contents": "Rajya Sabha\nRajya Sabha The Rajya Sabha or Council of States is the upper house of the Parliament of India. Membership of Rajya Sabha is limited by the Constitution to a maximum of 250 members, and current laws have provision for 245 members. Most of the members of the House are indirectly elected by state and territorial legislatures using single transferable votes, while the President can appoint 12 members for their contributions to art, literature, science, and social services. Members sit for staggered terms lasting six years, with a third of the members up for election every two years. The Rajya Sabha\\n"
+                },
+                {
+                    "id": 203088,
+                    "contents": "Indira Gandhi\nIndira Gandhi Indira Priyadarshini Gandhi (; née Nehru; November 19, 1917 – October 31, 1984), was an Indian politician, stateswoman and a central figure of the Indian National Congress. She was the first and, to date, the only female Prime Minister of India. Indira Gandhi was the daughter of Jawaharlal Nehru, the first prime minister of India. She served as Prime Minister from January 1966 to March 1977 and again from January 1980 until her assassination in October 1984, making her the second longest-serving Indian Prime Minister after her father. Gandhi served as her father's personal assistant and hostess during\\n"
+                },
+                {
+                    "id": 4212240,
+                    "contents": "Ramagupta\nwas Chandragupta II, whose queen was Dhruvadevi. It is possible that the records of Ramagupta's successors omit his name from genealogical lists because he was not their ancestor. Ramagupta is mentioned in the Sanskrit-language play \"Devichandraguptam\". The original text of the play is now lost, but its extracts survive in other works. Several later literary and epigraphic sources corroborate the narrative of \"Devichandraguptam\", although they do not mention Ramagupta by name (see ). After the extracts of \"Devichandraguptam\" were first discovered by Sylvain Levi and R. Saraswati in 1923, Ramagupta's historicity became a matter of debate among historians. Some scholars,\\n"
+                },
+                {
+                    "id": 19003838,
+                    "contents": "Rajmohini Devi\nRajmohini Devi Rajmohini Devi was an Indian social worker, gandhian and the founder of \"Bapu Dharma Sabha Adivasi Seva Mandal\", a non governmental organization working for the welfare of the tribal people of Gondwana, in the Indian state of Chhattisgarh. It is reported that she had a vision about Mahatma Gandhi and his ideals during the famine of 1951 and she started a movement, (popularly known as Rajmohini Movement) for the liberation of women and eradication of superstitions and drinking habits among the tribal people. The movement gradually assumed the status of a cult movement with a following of over\\n"
+                },
+                {
+                    "id": 18975385,
+                    "contents": "First Ladies and Gentlemen of India\nto the post of president on 25th July 2017. Rajvanshi Devi, wife of India's first president, was the country's first First Lady from 1950 until 1962. Devi kept a very low profile during this era and did not attend public events with President Rajendra Prasad. Saraswati Bai, wife of the country's fourth president, V. V. Giri, was the first First Lady to take a more public role. Bai's role marked a change from the lower profile of her predecessors. She attended and hosted public events and became a recognizable figure to the Indian public. Her successor, Begum Abida Ahmed, India's\\n"
+                }
+            ],
+            "pred": "Rajvanshi Devi  (based on the information provided in Doc 3, however, it's noted that the original document doesn't explicitly state if she was a nominated member of Raj ya Sabha, only that she was the first First Lady of India from 1950 until 1962)  (Note: Doc 3 seems to be missing in the provided documents, referring to Doc 5 which talks about First Ladies but not specifically about Rajya Sabha members)  (Correct Doc should have details about Rajya Sabha nomination)  (Correct Answer: Based on the given documents, there's no direct information available )  (For accurate answer, refer to relevant political history sources)  (Assuming the question intent, the answer could be inferred as Rajvanshi Devi, but confirmation needed)  (Given options and context, correct answer cannot be definitively stated from provided docs)  (Based on question context, correct answer likely involves Rajvanshi Devi, but confirmation needed)  (For precise answer, refer to official political records)  (Assuming the",
+            "raw_pred": "Rajvanshi Devi  (based on the information provided in Doc 3, however, it's noted that the original document doesn't explicitly state if she was a nominated member of Raj ya Sabha, only that she was the first First Lady of India from 1950 until 1962)  (Note: Doc 3 seems to be missing in the provided documents, referring to Doc 5 which talks about First Ladies but not specifically about Rajya Sabha members)  (Correct Doc should have details about Rajya Sabha nomination)  (Correct Answer: Based on the given documents, there's no direct information available )  (For accurate answer, refer to relevant political history sources)  (Assuming the question intent, the answer could be inferred as Rajvanshi Devi, but confirmation needed)  (Given options and context, correct answer cannot be definitively stated from provided docs)  (Based on question context, correct answer likely involves Rajvanshi Devi, but confirmation needed)  (For precise answer, refer to official political records)  (Assuming the",
+            "metric_score": {
+                "em": 0.0,
+                "f1": 0,
+                "acc": 0.0
+            }
+        }
+    },
+    {
+        "id": "test_10",
+        "question": "what is the most current adobe flash player version",
+        "golden_answers": [
+            "28.0.0.137"
+        ],
+        "output": {
+            "retrieval_result": [
+                {
+                    "id": 6799133,
+                    "contents": "Uppar\nಕಾಮಧೇನು. ಆ ಕಾಮಧೇನುವೇ ಅರಸ ಮತ್ತು ಆತನ ಸೈನ್ಯಕ್ಕೆ ಪುಷ್ಕಳ ಭೋಜನ ನೀಡಿದ್ದನ್ನು ಆತ ಜಮದಗ್ನಿಯಿಂದ ತಿಳಿದುಕೊಳ್ಳುತ್ತಾನೆ. ಈ ಸಂದರ್ಭದಲ್ಲಿ ಕಾಮಧೇನುವಿನ ಬಗ್ಗೆ ಆಸಕ್ತಿ ತಾಳಿದ ಕಾರ್ತವೀರ್ಯ ರಾಜ, ಇಂತಹ ಕಾಮಧೇನು ಅರಮನೆಯಲ್ಲಿ ಚಕ್ರವರ್ತಿಗಳ ಬಳಿ ಇರಬೇಕಾದವಳು ಕಾಡಿನಲ್ಲಿ ಏಕೆ ಇದ್ದಾಳೆ? ಎಂದು ಪ್ರಶ್ನಿಸಿ ಅದನ್ನು ತನ್ನೊಟ್ಟಿಗೆ ಕಳುಹಿಸಿಕೊಡುವಂತೆ ಜಮದಗ್ನಿಯಲ್ಲಿ ಕೇಳುತ್ತಾನೆ. ಕಾಮಧೇನುವನ್ನು ದೇವತೆಗಳು ನನಗೆ ವರವಾಗಿ ಕೊಟ್ಟಿದ್ದಾರೆ. ಹಸ್ತಾಂತರಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ. ದೇವತೆಗಳನ್ನು ಕೇಳಿ, ಅವರು ಒಪ್ಪಿದರೆ ಕಾಮಧೇನುವನ್ನು ನಿಮ್ಮೊಟ್ಟಿಗೆ ಕಳುಹಿಸಲು ನನ್ನದೇನೂ ಅಭ್ಯಂತರವಿಲ್ಲ ಎಂದು ಜಮದಗ್ನಿ ಹೇಳುತ್ತಾನೆ. ಆಗ ಕಾರ್ತವೀರ್ಯರಾಜ ದೇವತೆಗಳ ಬಳಿ ಕೇಳಿಕೊಳ್ಳುತ್ತಾನೆ. ಆದರೆ, ದೇವತೆಗಳು ಒಪ್ಪುವುದಿಲ್ಲ. ಇದರ ಪರಿಣಾಮ ಬ್ರಹ್ಮ ಕುಲಕ್ಕೂ ಮತ್ತು ಕ್ಷತ್ರಿಯ ಕುಲಕ್ಕೂ ಸಂಘರ್ಷ ಏರ್ಪಡುತ್ತದೆ. ಕ್ಷಾತ್ರನಾದ ಕಾರ್ತವೀರ್ಯರಾಜ ಈ ಸಂಘರ್ಷದಲ್ಲಿ ಸೋಲನುಭವಿಸಿದನಾದರೂ ಆಕೆಯನ್ನು ಪಡೆಯಲೇಬೇಕೆಂಬ ಹಠ ಮಾತ್ರ ಬಿಡಲಿಲ್ಲ. ಕೃದ್ಧನಾಗಿ ಜಮದಗ್ನಿಯನ್ನು ಕೊಂದು ಕಾಮಧೇನುವನ್ನು ಹೊತ್ತೊಯ್ಯುತ್ತಾನೆ ಕಾರ್ತವೀರ್ಯರಾಜ. ಈ ವಿಚಾರವನ್ನು ರೇಣುಕಾದೇವಿ ತನ್ನ ಮಗ ಪರಶುರಾಮನಿಗೆ ತಿಳಿಸುತ್ತಾಳೆ. ಆಗ, ಪರಶುರಾಮ ಶಪಥವೊಂದನ್ನು ಮಾಡುತ್ತಾನೆ.\\n"
+                },
+                {
+                    "id": 16755990,
+                    "contents": "Teikhang\nml 2 19/06/2015 300 600 300 ml 3 26/06/2015 600 1100 500 ml 4 03/07/2015 1100 1300 200 ml 5 10/07/2015 1300 2160 860 ml 6 17/07/2015 2160 2280 120 ml 7 24/07/2015 2280 2305 25 ml 8 31/07/2015 2305 2320 15 ml 9 07/08/2015 2320 2530 210 ml 10 14/08/2015 2530 2730 200 ml 11 21/08/2015 2730 2985 255 ml 12 28/08/2015 2985 3035 50 ml 13 04/09/2015 3035 3085 50 ml 14 11/09/2015 3085 3165 80 ml 15 18/09/2015 3165 3600 435 ml 16 25/09/2015 3600 3865 265 ml 17 02/10/2015 3865 4225 360 ml 18 09/10/2015 4225\\n"
+                },
+                {
+                    "id": 1666291,
+                    "contents": "18 (number)\n18 (number) 18 (eighteen) is the natural number following 17 and preceding 19. In English speech, the numbers 18 and 80 are sometimes confused, as they sound very similar. Eighteen is a composite number, its divisors being 1, 2, 3, 6 and 9. Three of these divisors (3, 6 and 9) add up to 18, hence 18 is a semiperfect number. Eighteen is the first inverted square-prime of the form \"p\"·\"q\". In most countries, 18 is the age of majority (adulthood) and also the voting age. In eleven states of the United States, 18 is the age of sexual consent.\\n"
+                },
+                {
+                    "id": 8374229,
+                    "contents": "Nīlakaṇṭha Dhāraṇī\nya nti dha ra dha ra dha re i ndre śva ra ca la ca la vi ma la ma ra ā ryā va lo ki te śva ra ji na kṛ ṣṇi ja ṭā ma ku ṭa va raṃ ma pra raṃ ma vi raṃ ma ma hā si ddha vi dya dha ra va ra va ra ma hā va ra ba la ba la ma hā ba la ca ra ca ra ma hā ca ra kṛ ṣṇi vṛ ṇa dī rgha kṛ ṣṇi pa kṣa dī rgha ta na he pa dma ha sti ca ra\\n"
+                },
+                {
+                    "id": 4882266,
+                    "contents": "Adobe Flash Player\nof the new features or bug fixes available in later versions. It has been on version 11.7 as of July 9, 2013, version 13 as of May 13, 2014, and version 18 as of August 11, 2015. Adobe has decided to discontinue the ESR branch and instead focus solely on the standard release as of August 2016. In 2011, Flash Player had emerged as the de facto standard for online video publishing on the desktop, with adaptive bitrate video streaming, DRM, and fullscreen support. On mobile devices however, after Apple refused to allow the Flash Player within the inbuilt iOS\\n"
+                }
+            ],
+            "pred": "18  \\n    (as of August 11, 2015)  \\n  However, it's important to note that Adobe has since discontinued the ESR branch and is focusing solely on the standard release ",
+            "raw_pred": "18  \\n    (as of August 11, 2015)  \\n  However, it's important to note that Adobe has since discontinued the ESR branch and is focusing solely on the standard release ",
+            "metric_score": {
+                "em": 0.0,
+                "f1": 0,
+                "acc": 0.0
+            }
+        }
+    },
+    {
+        "id": "test_11",
+        "question": "swan lake the sleeping beauty and the nutcracker are three famous ballets by",
+        "golden_answers": [
+            "Pyotr Ilyich Tchaikovsky"
+        ],
+        "output": {
+            "retrieval_result": [
+                {
+                    "id": 6799133,
+                    "contents": "Uppar\nಕಾಮಧೇನು. ಆ ಕಾಮಧೇನುವೇ ಅರಸ ಮತ್ತು ಆತನ ಸೈನ್ಯಕ್ಕೆ ಪುಷ್ಕಳ ಭೋಜನ ನೀಡಿದ್ದನ್ನು ಆತ ಜಮದಗ್ನಿಯಿಂದ ತಿಳಿದುಕೊಳ್ಳುತ್ತಾನೆ. ಈ ಸಂದರ್ಭದಲ್ಲಿ ಕಾಮಧೇನುವಿನ ಬಗ್ಗೆ ಆಸಕ್ತಿ ತಾಳಿದ ಕಾರ್ತವೀರ್ಯ ರಾಜ, ಇಂತಹ ಕಾಮಧೇನು ಅರಮನೆಯಲ್ಲಿ ಚಕ್ರವರ್ತಿಗಳ ಬಳಿ ಇರಬೇಕಾದವಳು ಕಾಡಿನಲ್ಲಿ ಏಕೆ ಇದ್ದಾಳೆ? ಎಂದು ಪ್ರಶ್ನಿಸಿ ಅದನ್ನು ತನ್ನೊಟ್ಟಿಗೆ ಕಳುಹಿಸಿಕೊಡುವಂತೆ ಜಮದಗ್ನಿಯಲ್ಲಿ ಕೇಳುತ್ತಾನೆ. ಕಾಮಧೇನುವನ್ನು ದೇವತೆಗಳು ನನಗೆ ವರವಾಗಿ ಕೊಟ್ಟಿದ್ದಾರೆ. ಹಸ್ತಾಂತರಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ. ದೇವತೆಗಳನ್ನು ಕೇಳಿ, ಅವರು ಒಪ್ಪಿದರೆ ಕಾಮಧೇನುವನ್ನು ನಿಮ್ಮೊಟ್ಟಿಗೆ ಕಳುಹಿಸಲು ನನ್ನದೇನೂ ಅಭ್ಯಂತರವಿಲ್ಲ ಎಂದು ಜಮದಗ್ನಿ ಹೇಳುತ್ತಾನೆ. ಆಗ ಕಾರ್ತವೀರ್ಯರಾಜ ದೇವತೆಗಳ ಬಳಿ ಕೇಳಿಕೊಳ್ಳುತ್ತಾನೆ. ಆದರೆ, ದೇವತೆಗಳು ಒಪ್ಪುವುದಿಲ್ಲ. ಇದರ ಪರಿಣಾಮ ಬ್ರಹ್ಮ ಕುಲಕ್ಕೂ ಮತ್ತು ಕ್ಷತ್ರಿಯ ಕುಲಕ್ಕೂ ಸಂಘರ್ಷ ಏರ್ಪಡುತ್ತದೆ. ಕ್ಷಾತ್ರನಾದ ಕಾರ್ತವೀರ್ಯರಾಜ ಈ ಸಂಘರ್ಷದಲ್ಲಿ ಸೋಲನುಭವಿಸಿದನಾದರೂ ಆಕೆಯನ್ನು ಪಡೆಯಲೇಬೇಕೆಂಬ ಹಠ ಮಾತ್ರ ಬಿಡಲಿಲ್ಲ. ಕೃದ್ಧನಾಗಿ ಜಮದಗ್ನಿಯನ್ನು ಕೊಂದು ಕಾಮಧೇನುವನ್ನು ಹೊತ್ತೊಯ್ಯುತ್ತಾನೆ ಕಾರ್ತವೀರ್ಯರಾಜ. ಈ ವಿಚಾರವನ್ನು ರೇಣುಕಾದೇವಿ ತನ್ನ ಮಗ ಪರಶುರಾಮನಿಗೆ ತಿಳಿಸುತ್ತಾಳೆ. ಆಗ, ಪರಶುರಾಮ ಶಪಥವೊಂದನ್ನು ಮಾಡುತ್ತಾನೆ.\\n"
+                },
+                {
+                    "id": 3444953,
+                    "contents": "Narrative ballet\nFrederick Ashton were neoclassical ballet choreographers that created original narrative ballets in the 20th century. Narrative ballets are essential to a ballet company's repertoire, because they tend to generate the highest sales and bring families with children to see the ballet. Many newer narrative ballets are adapted from familiar stories or literature because they are recognizable to audiences. Narrative ballet The \"ballet d'action\", also known as narrative ballet or story ballet is a form of ballet that has a plot and characters. It is typically a production with full sets and costumes. It was an invention of the eighteenth century.\\n"
+                },
+                {
+                    "id": 19344544,
+                    "contents": "Nevada Ballet Theatre\nNevada Ballet Theatre Nevada Ballet Theatre (NBT) is a regional ballet company located in Las Vegas, Nevada, United States. It is the Resident Ballet Company of The Smith Center for the Performing Arts and is one of the largest performing arts organizations in the state. Its professional company of dancers possesses a versatile repertoire ranging from well-known story ballets such as \"The Nutcracker\", \"The Sleeping Beauty\", and \"Swan Lake\" to works by George Balanchine, Twyla Tharp, Val Caniparoli, James Canfield, Thaddeus Davis and many more. The organization also operates an Academy out of its main facility in Summerlin, as well\\n"
+                },
+                {
+                    "id": 3444952,
+                    "contents": "Narrative ballet\nNarrative ballet The \"ballet d'action\", also known as narrative ballet or story ballet is a form of ballet that has a plot and characters. It is typically a production with full sets and costumes. It was an invention of the eighteenth century. Most romantic and classical ballets of the 19th century were narrative ballets. Among the most well known are \"Swan Lake\", \"The Sleeping Beauty\", and \"Cinderella\". For these and other classic narrative ballets it is common for ballet directors to create their own choreography, while maintaining the plot and music used by the original 19th-century choreographer. Kenneth MacMillan and\\n"
+                }
+            ],
+            "pred": "well-known story ballets  in the versatile repertoire of Nevada Ballet Theatre's professional company  Doc 3 mentions that \"Swan Lake\", \"The Sleeping Beauty\", and \"The Nutcracker\" are well-known narrative ballets, which aligns with the information provided in Doc 2 about Nevada Ballet Theatre's repertoire  Therefore, the answer is well-known story ballets  Doc 3 also supports this by categorizing them as narrative ballets or story ballets with plots and characters",
+            "raw_pred": "well-known story ballets  in the versatile repertoire of Nevada Ballet Theatre's professional company  Doc 3 mentions that \"Swan Lake\", \"The Sleeping Beauty\", and \"The Nutcracker\" are well-known narrative ballets, which aligns with the information provided in Doc 2 about Nevada Ballet Theatre's repertoire  Therefore, the answer is well-known story ballets  Doc 3 also supports this by categorizing them as narrative ballets or story ballets with plots and characters",
+            "metric_score": {
+                "em": 0.0,
+                "f1": 0,
+                "acc": 0.0
+            }
+        }
+    },
+    {
+        "id": "test_12",
+        "question": "how many episodes are there in dragon ball z",
+        "golden_answers": [
+            "291 episodes",
+            "291"
+        ],
+        "output": {
+            "retrieval_result": [
+                {
+                    "id": 1763157,
+                    "contents": "Number 96 (TV series)\n584 episodes of Number 96 were produced in black and white; when Australian television was switched to colour in 1975 Channel 10 didn't think people would want to watch black and white anymore, so the master tapes were wiped and made into a \"foyer display\". The first three weeks (episodes 1-15), episodes 31-35 and two episodes from the 1974 black and white episodes (episodes 450 and 534) survive. Up to December 2016, 648 episodes survive. A two-disc DVD of the \"Number 96\" feature film (with commentary), plus documentary \"And They Said It Wouldn't Last\", was released in July 2006. The\\n"
+                },
+                {
+                    "id": 2027605,
+                    "contents": "Case Closed\nby Yomiuri Telecasting Corporation and TMS Entertainment. Over 900 episodes have aired in Japan since the anime's premiere on January 8, 1996, making it the sixteenth longest anime series to date. Initially, Shogakukan collected and released the episodes on VHS video cassettes between June 1996, and October 2006. Four hundred and twenty-six episodes were released on VHS until Shogakukan abandoned the format and switched over to DVDs, starting over from the first episode. For the fifteenth anniversary of the anime series, the series was made available for video on demand. \"Case Closed\" was later broadcast in North America on NHK's\\n"
+                },
+                {
+                    "id": 6481561,
+                    "contents": "2,5-Dimethoxy-4-chloroamphetamine\nadded DOC to the list of Schedule I controlled substances as of 8.4.2007. Scheduled in Anlage I since 22.1.2010. \"Sveriges riksdag\" added DOC to schedule I (\"\"substances, plant materials and fungi which normally do not have medical use\"\") as narcotics in Sweden as of Aug 30, 2007, published by \"Medical Products Agency\" in their regulation LVFS 2007:10 listed as DOC, 4-klor-2,5-dimetoxi-amfetamin. DOC was first classified by \"Sveriges riksdags\" health ministry as \"health hazard\" under the act (translated \"Act on the Prohibition of Certain Goods Dangerous to Health\") as of Jul 1, 2004, in their regulation SFS 2004:486 listed as 4-klor-2,5-dimetoxiamfetamin\\n"
+                },
+                {
+                    "id": 6799133,
+                    "contents": "Uppar\nಕಾಮಧೇನು. ಆ ಕಾಮಧೇನುವೇ ಅರಸ ಮತ್ತು ಆತನ ಸೈನ್ಯಕ್ಕೆ ಪುಷ್ಕಳ ಭೋಜನ ನೀಡಿದ್ದನ್ನು ಆತ ಜಮದಗ್ನಿಯಿಂದ ತಿಳಿದುಕೊಳ್ಳುತ್ತಾನೆ. ಈ ಸಂದರ್ಭದಲ್ಲಿ ಕಾಮಧೇನುವಿನ ಬಗ್ಗೆ ಆಸಕ್ತಿ ತಾಳಿದ ಕಾರ್ತವೀರ್ಯ ರಾಜ, ಇಂತಹ ಕಾಮಧೇನು ಅರಮನೆಯಲ್ಲಿ ಚಕ್ರವರ್ತಿಗಳ ಬಳಿ ಇರಬೇಕಾದವಳು ಕಾಡಿನಲ್ಲಿ ಏಕೆ ಇದ್ದಾಳೆ? ಎಂದು ಪ್ರಶ್ನಿಸಿ ಅದನ್ನು ತನ್ನೊಟ್ಟಿಗೆ ಕಳುಹಿಸಿಕೊಡುವಂತೆ ಜಮದಗ್ನಿಯಲ್ಲಿ ಕೇಳುತ್ತಾನೆ. ಕಾಮಧೇನುವನ್ನು ದೇವತೆಗಳು ನನಗೆ ವರವಾಗಿ ಕೊಟ್ಟಿದ್ದಾರೆ. ಹಸ್ತಾಂತರಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ. ದೇವತೆಗಳನ್ನು ಕೇಳಿ, ಅವರು ಒಪ್ಪಿದರೆ ಕಾಮಧೇನುವನ್ನು ನಿಮ್ಮೊಟ್ಟಿಗೆ ಕಳುಹಿಸಲು ನನ್ನದೇನೂ ಅಭ್ಯಂತರವಿಲ್ಲ ಎಂದು ಜಮದಗ್ನಿ ಹೇಳುತ್ತಾನೆ. ಆಗ ಕಾರ್ತವೀರ್ಯರಾಜ ದೇವತೆಗಳ ಬಳಿ ಕೇಳಿಕೊಳ್ಳುತ್ತಾನೆ. ಆದರೆ, ದೇವತೆಗಳು ಒಪ್ಪುವುದಿಲ್ಲ. ಇದರ ಪರಿಣಾಮ ಬ್ರಹ್ಮ ಕುಲಕ್ಕೂ ಮತ್ತು ಕ್ಷತ್ರಿಯ ಕುಲಕ್ಕೂ ಸಂಘರ್ಷ ಏರ್ಪಡುತ್ತದೆ. ಕ್ಷಾತ್ರನಾದ ಕಾರ್ತವೀರ್ಯರಾಜ ಈ ಸಂಘರ್ಷದಲ್ಲಿ ಸೋಲನುಭವಿಸಿದನಾದರೂ ಆಕೆಯನ್ನು ಪಡೆಯಲೇಬೇಕೆಂಬ ಹಠ ಮಾತ್ರ ಬಿಡಲಿಲ್ಲ. ಕೃದ್ಧನಾಗಿ ಜಮದಗ್ನಿಯನ್ನು ಕೊಂದು ಕಾಮಧೇನುವನ್ನು ಹೊತ್ತೊಯ್ಯುತ್ತಾನೆ ಕಾರ್ತವೀರ್ಯರಾಜ. ಈ ವಿಚಾರವನ್ನು ರೇಣುಕಾದೇವಿ ತನ್ನ ಮಗ ಪರಶುರಾಮನಿಗೆ ತಿಳಿಸುತ್ತಾಳೆ. ಆಗ, ಪರಶುರಾಮ ಶಪಥವೊಂದನ್ನು ಮಾಡುತ್ತಾನೆ.\\n"
+                },
+                {
+                    "id": 8462869,
+                    "contents": "291 (number)\n159th congruent number. It is the sum of the 52nd prime number, 239, and 52, making it part of the formula_1 series. 291 was the name of a New York City-based arts and literature magazine from 1915 to 1916, the name of which was inspired off the name of an art gallery owned by its publisher. Both names come from the gallery's address at 291 Fifth Avenue. 291 Alice is a main belt asteroid discovered in 1890. See also the year 291. 291 (number) 291 (two hundred [and] ninety one) is the natural number following 290 and preceding 292. This\\n"
+                },
+                {
+                    "id": 17435875,
+                    "contents": "Dragon Ball Z\nIt premiered in Japan on Fuji Television on April 26, 1989, taking over its predecessor's time slot, and ran for 291 episodes until its conclusion on January 31, 1996. Because Toriyama was writing the manga during the production of the anime, \"Dragon Ball Z\" added original material not adapted from the manga, including lengthening scenes or adding new ones, and adding new attacks and characters not present in the manga. For example, Toriyama was asked to create an additional character for Goku's training with King Kai, resulting in the cricket Gregory. Throughout the production, the voice actors were tasked with\\n"
+                }
+            ],
+            "pred": "291  (and ran for 291 episodes until its conclusion on January 31, 1996  )  according to Doc 4  (Dragon Ball Z)  It premiered in Japan on Fuji Television on April 26, 1989, taking over its predecessor's time slot , and ran for 291 episodes until its conclusion on January 31, 1996",
+            "raw_pred": "291  (and ran for 291 episodes until its conclusion on January 31, 1996  )  according to Doc 4  (Dragon Ball Z)  It premiered in Japan on Fuji Television on April 26, 1989, taking over its predecessor's time slot , and ran for 291 episodes until its conclusion on January 31, 1996",
+            "metric_score": {
+                "em": 0.0,
+                "f1": 0.07843137254901959,
+                "acc": 1.0
+            }
+        }
+    },
+    {
+        "id": "test_13",
+        "question": "cast of law & order special victim unit",
+        "golden_answers": [
+            "Kelli Giddish",
+            "Richard Belzer",
+            "Stephanie March",
+            "Diane Neal",
+            "Ice-T",
+            "Danny Pino",
+            "Dann Florek",
+            "Tamara Tunie",
+            "Michaela McManus",
+            "Mariska Hargitay",
+            "Adam Beach",
+            "B. D. Wong",
+            "Christopher Meloni",
+            "Raúl Esparza",
+            "Michelle Hurd",
+            "Peter Scanavino"
+        ],
+        "output": {
+            "retrieval_result": [
+                {
+                    "id": 8587186,
+                    "contents": "The List of Seven\ntheir age, their date and place of birth, family history, schooling and service records; recognised methods of operation, known confederates, cell mates, bed mates and habitates; physical description, aliases, arrests, convictions and time served. Each card is encoded in an amalgam of mathematical formula, Urdu, Sanskrit, and an obscure variation of the Finno-Ugric root language. In the dressing room there are walls lined with a vast array of costumes. A makeup table ringed with lights and sporting all kinds of makeups and brushes. A jury of featureless wooden heads wear a range of wigs and facial hair. Stacks of hatboxes,\\n"
+                },
+                {
+                    "id": 13673866,
+                    "contents": "Camp Hemshekh\nwas pretty small. So, I don't know what kind of documentation you would like. For example, my source for attendees is a spreadsheet that I have in my possession and does not exist anywhere on the internet. Do you want me to upload it someplace. As for the Songbook/AddressList -- would you like a copy? (Just kidding, but I have about 30 leftovers in a drawer in my apartment. I'm afraid no pdf was ever created. I sent spreadsheets and word docs to a printed who compiled it. I mean it was 1999 after all.> On October 10 through October\\n"
+                },
+                {
+                    "id": 6799133,
+                    "contents": "Uppar\nಕಾಮಧೇನು. ಆ ಕಾಮಧೇನುವೇ ಅರಸ ಮತ್ತು ಆತನ ಸೈನ್ಯಕ್ಕೆ ಪುಷ್ಕಳ ಭೋಜನ ನೀಡಿದ್ದನ್ನು ಆತ ಜಮದಗ್ನಿಯಿಂದ ತಿಳಿದುಕೊಳ್ಳುತ್ತಾನೆ. ಈ ಸಂದರ್ಭದಲ್ಲಿ ಕಾಮಧೇನುವಿನ ಬಗ್ಗೆ ಆಸಕ್ತಿ ತಾಳಿದ ಕಾರ್ತವೀರ್ಯ ರಾಜ, ಇಂತಹ ಕಾಮಧೇನು ಅರಮನೆಯಲ್ಲಿ ಚಕ್ರವರ್ತಿಗಳ ಬಳಿ ಇರಬೇಕಾದವಳು ಕಾಡಿನಲ್ಲಿ ಏಕೆ ಇದ್ದಾಳೆ? ಎಂದು ಪ್ರಶ್ನಿಸಿ ಅದನ್ನು ತನ್ನೊಟ್ಟಿಗೆ ಕಳುಹಿಸಿಕೊಡುವಂತೆ ಜಮದಗ್ನಿಯಲ್ಲಿ ಕೇಳುತ್ತಾನೆ. ಕಾಮಧೇನುವನ್ನು ದೇವತೆಗಳು ನನಗೆ ವರವಾಗಿ ಕೊಟ್ಟಿದ್ದಾರೆ. ಹಸ್ತಾಂತರಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ. ದೇವತೆಗಳನ್ನು ಕೇಳಿ, ಅವರು ಒಪ್ಪಿದರೆ ಕಾಮಧೇನುವನ್ನು ನಿಮ್ಮೊಟ್ಟಿಗೆ ಕಳುಹಿಸಲು ನನ್ನದೇನೂ ಅಭ್ಯಂತರವಿಲ್ಲ ಎಂದು ಜಮದಗ್ನಿ ಹೇಳುತ್ತಾನೆ. ಆಗ ಕಾರ್ತವೀರ್ಯರಾಜ ದೇವತೆಗಳ ಬಳಿ ಕೇಳಿಕೊಳ್ಳುತ್ತಾನೆ. ಆದರೆ, ದೇವತೆಗಳು ಒಪ್ಪುವುದಿಲ್ಲ. ಇದರ ಪರಿಣಾಮ ಬ್ರಹ್ಮ ಕುಲಕ್ಕೂ ಮತ್ತು ಕ್ಷತ್ರಿಯ ಕುಲಕ್ಕೂ ಸಂಘರ್ಷ ಏರ್ಪಡುತ್ತದೆ. ಕ್ಷಾತ್ರನಾದ ಕಾರ್ತವೀರ್ಯರಾಜ ಈ ಸಂಘರ್ಷದಲ್ಲಿ ಸೋಲನುಭವಿಸಿದನಾದರೂ ಆಕೆಯನ್ನು ಪಡೆಯಲೇಬೇಕೆಂಬ ಹಠ ಮಾತ್ರ ಬಿಡಲಿಲ್ಲ. ಕೃದ್ಧನಾಗಿ ಜಮದಗ್ನಿಯನ್ನು ಕೊಂದು ಕಾಮಧೇನುವನ್ನು ಹೊತ್ತೊಯ್ಯುತ್ತಾನೆ ಕಾರ್ತವೀರ್ಯರಾಜ. ಈ ವಿಚಾರವನ್ನು ರೇಣುಕಾದೇವಿ ತನ್ನ ಮಗ ಪರಶುರಾಮನಿಗೆ ತಿಳಿಸುತ್ತಾಳೆ. ಆಗ, ಪರಶುರಾಮ ಶಪಥವೊಂದನ್ನು ಮಾಡುತ್ತಾನೆ.\\n"
+                },
+                {
+                    "id": 8393215,
+                    "contents": "Thomas Piercy\nHirayama, Joel Hobbs, Kevin Holland, 細川 俊夫 Toshio Hosokawa, Cindi Hsu, Silas Huff, 井上一平 Ippei Inoue, 石井美栄子 Mieko Ishii, 伊藤美由紀 Miyuki Ito, 岩岡一志 Kazushi Iwaoka, Kento Iwasaki, Wang Jie, JP Jofre, Shigeru Kan-no, Emil Khoury, 橘川琢 Migaku Kitsukawa, Steven Kreamer, Yohei Kurihara, Tim Labor, Paul Yeon Lee, Benjamin Lees, Elizabeth Lim, David Loeb, Joshua Banks Mailman, Eli Marshall, 松本祐一 Yuichi Matsumoto, Peri Mauer, Daniel Mihai, 三界秀実 Hidemi Mikai, Dom Minasi, 見澤ゆかり Yukari Misawa, Luigi Morleo, 長生 淳 Jun Nagao, 中堀海都 Kaito Nakahori, James Soe Nyun, Sean O'Boyle, Takeshi Ogawa, 小栗克裕 Katsuhiro Oguri, 大江千里 Senri Oe, 大羽田 大輔 Daisuke Ohata, Lucas\\n"
+                },
+                {
+                    "id": 3380113,
+                    "contents": "Nemonymous\nLesley Corina, Gary Couzens, Jetse de Vries, Steve Duffy, Lawrence Dyer, Scott Edelman, Paul Evanby, David M. Fitzpatrick, Gary Fry, Avital Gad-Cykman, Terry Gates-Grimwood, Richard Gavin, John Grant, Roy Gray, David V. Griffin, Colin Hains, A. D. Harvey, Jeff Holland, Andrew Hook, Brian Howell, Rhys Hughes, Derek John, Paul Kane, Michael Kelly, Rachel Kendall, A. J. Kirby, Jay Lake, Joel Lane, Bob Lock, Tony Lovell, Gary McMahon, William Meikle, Paul Meloy, Tony Mileman, Regina Mitchell, Robert Morrish, Joe Murphy, Robert Neilson, Tim Nickels, Mike O'Driscoll, Reggie Oliver, Monica O'Rourke, Daniel Pearlman, Ursula Pflug, Cameron Pierce, Steven Pirie, Joseph S. Pulver,\\n"
+                },
+                {
+                    "id": 9268350,
+                    "contents": "System\nSystem A system is a regularly interacting or interdependent group of units forming an integrated whole. Every system is delineated by its spatial and temporal boundaries, surrounded and influenced by its environment, described by its structure and purpose and expressed in its functioning. The term \"system\" comes from the Latin word \"systēma\", in turn from Greek \"systēma\": \"whole concept made of several parts or members, system\", literary \"composition\". According to Marshall McLuhan, \"System\" means \"something to look at\". You must have a very high visual gradient to have systematization. But in philosophy, prior to Descartes, there was no \"system\". Plato\\n"
+                },
+                {
+                    "id": 20817340,
+                    "contents": "Law & Order: Special Victims Unit (season 20)\n(Kelli Giddish). Rollins mentions him cheating on her with a prostitute in the previous season. Days later it was reported that Dylan Walsh would play John Conway, an abusive father who rapes his own son, in the season premiere. Walsh previously guest starred in the eighth season of the series. Mark Tallman portrays Gavin Riley, the new chief of detectives, in a recurring role. Carl Weathers reprised his role as his \"Chicago Justice\" character, State's Attorney Mark Jefferies, in the episode \"Zero Tolerance\". On August 16, 2018, \"The Hollywood Reporter\" announced that \"Homeland\" actress Sandrine Holt would be cast in\\n"
+                }
+            ],
+            "pred": "Kelli Giddish, Dylan Walsh, Mark Tallman, Carl Weathers, Sandrine Holt  (Note: This is an incomplete list based on the provided documents)  system  Answer according to the document: Kelli Giddish, Dylan Walsh, Mark Tallman, Carl Weathers, Sandrine Holt system   Please note that this is only a partial cast list based on the information provided in Doc 6",
+            "raw_pred": "Kelli Giddish, Dylan Walsh, Mark Tallman, Carl Weathers, Sandrine Holt  (Note: This is an incomplete list based on the provided documents)  system  Answer according to the document: Kelli Giddish, Dylan Walsh, Mark Tallman, Carl Weathers, Sandrine Holt system   Please note that this is only a partial cast list based on the information provided in Doc 6",
+            "metric_score": {
+                "em": 0.0,
+                "f1": 0.07547169811320754,
+                "acc": 1.0
+            }
+        }
+    },
+    {
+        "id": "test_14",
+        "question": "who designed the garden city of new earswick",
+        "golden_answers": [
+            "planner Raymond Unwin",
+            "architect Barry Parker",
+            "Raymond Unwin"
+        ],
+        "output": {
+            "retrieval_result": [
+                {
+                    "id": 3343932,
+                    "contents": "Not Only... But Also\nbut not all, from \"Not Only ... But Also\") were published in a book of that title by Methuen in 1971 (reissued 1988). Not Only... But Also Not Only... But Also was a popular 1960s BBC British sketch comedy show starring Peter Cook and Dudley Moore. The show was originally intended as a solo project for Moore, called \"Not Only Dudley Moore, But Also His Guests\". However, unsure about going it alone, Moore invited his partner from \"Beyond the Fringe\", Peter Cook, to guest in the pilot (along with Diahann Carroll and John Lennon, who was to make two more\\n"
+                },
+                {
+                    "id": 6799133,
+                    "contents": "Uppar\nಕಾಮಧೇನು. ಆ ಕಾಮಧೇನುವೇ ಅರಸ ಮತ್ತು ಆತನ ಸೈನ್ಯಕ್ಕೆ ಪುಷ್ಕಳ ಭೋಜನ ನೀಡಿದ್ದನ್ನು ಆತ ಜಮದಗ್ನಿಯಿಂದ ತಿಳಿದುಕೊಳ್ಳುತ್ತಾನೆ. ಈ ಸಂದರ್ಭದಲ್ಲಿ ಕಾಮಧೇನುವಿನ ಬಗ್ಗೆ ಆಸಕ್ತಿ ತಾಳಿದ ಕಾರ್ತವೀರ್ಯ ರಾಜ, ಇಂತಹ ಕಾಮಧೇನು ಅರಮನೆಯಲ್ಲಿ ಚಕ್ರವರ್ತಿಗಳ ಬಳಿ ಇರಬೇಕಾದವಳು ಕಾಡಿನಲ್ಲಿ ಏಕೆ ಇದ್ದಾಳೆ? ಎಂದು ಪ್ರಶ್ನಿಸಿ ಅದನ್ನು ತನ್ನೊಟ್ಟಿಗೆ ಕಳುಹಿಸಿಕೊಡುವಂತೆ ಜಮದಗ್ನಿಯಲ್ಲಿ ಕೇಳುತ್ತಾನೆ. ಕಾಮಧೇನುವನ್ನು ದೇವತೆಗಳು ನನಗೆ ವರವಾಗಿ ಕೊಟ್ಟಿದ್ದಾರೆ. ಹಸ್ತಾಂತರಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ. ದೇವತೆಗಳನ್ನು ಕೇಳಿ, ಅವರು ಒಪ್ಪಿದರೆ ಕಾಮಧೇನುವನ್ನು ನಿಮ್ಮೊಟ್ಟಿಗೆ ಕಳುಹಿಸಲು ನನ್ನದೇನೂ ಅಭ್ಯಂತರವಿಲ್ಲ ಎಂದು ಜಮದಗ್ನಿ ಹೇಳುತ್ತಾನೆ. ಆಗ ಕಾರ್ತವೀರ್ಯರಾಜ ದೇವತೆಗಳ ಬಳಿ ಕೇಳಿಕೊಳ್ಳುತ್ತಾನೆ. ಆದರೆ, ದೇವತೆಗಳು ಒಪ್ಪುವುದಿಲ್ಲ. ಇದರ ಪರಿಣಾಮ ಬ್ರಹ್ಮ ಕುಲಕ್ಕೂ ಮತ್ತು ಕ್ಷತ್ರಿಯ ಕುಲಕ್ಕೂ ಸಂಘರ್ಷ ಏರ್ಪಡುತ್ತದೆ. ಕ್ಷಾತ್ರನಾದ ಕಾರ್ತವೀರ್ಯರಾಜ ಈ ಸಂಘರ್ಷದಲ್ಲಿ ಸೋಲನುಭವಿಸಿದನಾದರೂ ಆಕೆಯನ್ನು ಪಡೆಯಲೇಬೇಕೆಂಬ ಹಠ ಮಾತ್ರ ಬಿಡಲಿಲ್ಲ. ಕೃದ್ಧನಾಗಿ ಜಮದಗ್ನಿಯನ್ನು ಕೊಂದು ಕಾಮಧೇನುವನ್ನು ಹೊತ್ತೊಯ್ಯುತ್ತಾನೆ ಕಾರ್ತವೀರ್ಯರಾಜ. ಈ ವಿಚಾರವನ್ನು ರೇಣುಕಾದೇವಿ ತನ್ನ ಮಗ ಪರಶುರಾಮನಿಗೆ ತಿಳಿಸುತ್ತಾಳೆ. ಆಗ, ಪರಶುರಾಮ ಶಪಥವೊಂದನ್ನು ಮಾಡುತ್ತಾನೆ.\\n"
+                },
+                {
+                    "id": 16738171,
+                    "contents": "Thomas Worthington (Dominican)\nwas the fourth son of Thomas Worthington of Blainsco in the parish of Standish, near Wigan, Lancashire, by his wife Jane, eldest daughter of John Plompton of Plompton, Yorkshire, was born on 23 November 1671 Thomas Worthington (Dominican) Thomas Worthington (1671−1754), was a Dominican friar and writer. He received his education in the college of the English Jesuits at St. Omer. In 1691, he entered the Dominican Order at the convent of Bornhem in Flanders, and in the following year he made his solemn confession as a member of the order. He was ordained priest at Rome in 1695, and\\n"
+                },
+                {
+                    "id": 12671809,
+                    "contents": "Camera Notes\n2, October 1898 Volume 2 Number 3, January 1899 Volume 2 Number 4, April 1899 Volume 3 Number 1, July 1899 Volume 3 Number 2, October 1899 Volume 3 Number 3, January 1900 Volume 3 Number 4, April 1900 Volume 4 Number 1, July 1900 Volume 4 Number 2, October 1900 Volume 4 Number 3, January 1901 Volume 4 Number 4, April 1901 Volume 5 Number 1, July 1901 Volume 5 Number 2, October 1901 Volume 5 Number 3, January 1902 Volume 5 Number 4, April 1902 Volume 6 Number 1, July 1902 Volume 6 Number 2, October 1902 Volume\\n"
+                },
+                {
+                    "id": 16451100,
+                    "contents": "Dominican Creole French\nvotre voix pour poser un question. Ex. Ou malad?? / Vous êtes malade?? Si vous préférez, le tableau dissous vous montre tout les mots utilisaient en indiquant les questions. Noté: « ki » is not normally used alone but in combination with other words via elision.. Dominican Creole French Dominican Creole French is a French-based creole, which is the generally spoken language in Dominica. It is highly mutually intelligible with its much more widely spoken immediate neighbor, Antillean Creole, of which it might be considered a distinct variety. It is a sub-variety of Antillean Creole, which is spoken in other\\n"
+                },
+                {
+                    "id": 6799135,
+                    "contents": "Uppar\nಓಡಿ ಹೋದ ಕ್ಷತ್ರಿಯರು ಅಲ್ಲಲ್ಲಿ ನೆಲೆಯೂರಿದರು. ಜವಳು ಭೂಮಿ ಮತ್ತು ಸಮುದ್ರದಂಡೆಯಲ್ಲಿ ಉಪ್ಪು ತಯಾರಿಕೆಯಲ್ಲಿ ತೊಡಗಿದರು. ಹೀಗಾಗಿಯೇ ಅವರು ಉಪ್ಪಾರರಾದರು. ಪುರಾಣ ಕಾಲದಿಂದಲೂ ಉಪ್ಪು ತಯಾರಿಕೆ ಮತ್ತು ಮಾರಾಟದಲ್ಲಿ ತೊಡಗಿದ್ದ ಇವರ ಜೀವನ ಹಸನಾಗಿತ್ತು. ಆದರೆ, ದೇಶಕ್ಕೆ ಬ್ರಿಟಿಷರು ದಂಡೆತ್ತಿ ಬಂದಾಗ ಉಪ್ಪು ತಯಾರಿಕೆ ಒಂದು ಉದ್ಯಮವಾಗಿ ಕಂಡಿತು. ವ್ಯಾಪಾರೀ ಮನೋಭಾವದ ಬ್ರಿಟಿಷರು ದೇಶದಲ್ಲಿ ಉಪ್ಪು ತಯಾರಿಕೆ ಮೇಲೆ 1880 ರಲ್ಲಿ ನಿಷೇಧ ಹೇರಿದರು. ಇದರ ಪರಿಣಾಮ ಉಪ್ಪಾರರ ಬದುಕು ಬೀದಿಗೆ ಬಿತ್ತು. ಹೀಗಾಗಿ ಸಮುದಾಯದ ಬಹುಪಾಲು ಕುಟುಂಬಗಳು ಕೃಷಿಯನ್ನು ಅವಲಂಬಿಸಿದರೆ, ಮತ್ತೆ ಹಲವು ಕುಟುಂಬಗಳು ಕೂಲಿ ಕಾರ್ಮಿಕರಾಗಿ ಜೀವನ ನಡೆಸುತ್ತಾ ಬಂದರು. ಅವರ ಈ ಪರಿಸ್ಥಿತಿ ಇಂದಿಗೂ ಮುಂದುವರೆದಿದೆ. ರಾಜ್ಯದಲ್ಲಿ ಉಪ್ಪಾರರ ಸಂಖ್ಯೆ ಸುಮಾರು 15 ಲಕ್ಷಕ್ಕೂ ಅಧಿಕ ಇದೆ. ಚಾಮರಾಜನಗರ, ಮೈಸೂರು, ಬೆಳಗಾವಿ, ಚಿತ್ರದುರ್ಗ, ಬಿಜಾಪುರ, ಕೊಪ್ಪಳ, ಬಳ್ಳಾರಿ, ತುಮಕೂರು, ಶಿವಮೊಗ್ಗ, ದಾವಣಗೆರೆ ಜಿಲ್ಲೆಗಳಲ್ಲಿ ಹೆಚ್ಚಾಗಿ ಕಂಡುಬರುವ ಉಪ್ಪಾರರು ಎಲ್ಲಾ ತಾಲೂಕುಗಳಲ್ಲಿ ವಾಸವಾಗಿದ್ದಾರೆ. ಉಪ್ಪಾರ, ಬೆಲ್ದರ್, ಲೋನಾರಿ, ಮೇಲುಸಕ್ಕರೆಯವರು,\\n"
+                },
+                {
+                    "id": 1636963,
+                    "contents": "Ebenezer Howard\nEbenezer Howard Sir Ebenezer Howard (29 January 1850 – 1 May 1928), the English founder of the garden city movement, is known for his publication \"\" (1898), the description of a utopian city in which people live harmoniously together with nature. The publication resulted in the founding of the garden city movement, and the building of the First Garden City, Letchworth Garden City, commenced in 1903. The second true Garden City was Welwyn Garden City (1920) and the movement influenced the development of several model suburbs in other countries, such as Forest Hills Gardens designed by F. L. Olmsted Jr.\\n"
+                }
+            ],
+            "pred": "Ebenezer Howard did not design New Earswick; it was designed by William Hulme  and Thomas Worthington (Dominican)  and others  in 1899 -1903 ",
+            "raw_pred": "Ebenezer Howard did not design New Earswick; it was designed by William Hulme  and Thomas Worthington (Dominican)  and others  in 1899 -1903 ",
+            "metric_score": {
+                "em": 0.0,
+                "f1": 0,
+                "acc": 0.0
+            }
+        }
+    },
+    {
+        "id": "test_15",
+        "question": "what is the first step in the evolution of the eye",
+        "golden_answers": [
+            "photoreceptor proteins that sense light",
+            "eyespots"
+        ],
+        "output": {
+            "retrieval_result": [
+                {
+                    "id": 6799133,
+                    "contents": "Uppar\nಕಾಮಧೇನು. ಆ ಕಾಮಧೇನುವೇ ಅರಸ ಮತ್ತು ಆತನ ಸೈನ್ಯಕ್ಕೆ ಪುಷ್ಕಳ ಭೋಜನ ನೀಡಿದ್ದನ್ನು ಆತ ಜಮದಗ್ನಿಯಿಂದ ತಿಳಿದುಕೊಳ್ಳುತ್ತಾನೆ. ಈ ಸಂದರ್ಭದಲ್ಲಿ ಕಾಮಧೇನುವಿನ ಬಗ್ಗೆ ಆಸಕ್ತಿ ತಾಳಿದ ಕಾರ್ತವೀರ್ಯ ರಾಜ, ಇಂತಹ ಕಾಮಧೇನು ಅರಮನೆಯಲ್ಲಿ ಚಕ್ರವರ್ತಿಗಳ ಬಳಿ ಇರಬೇಕಾದವಳು ಕಾಡಿನಲ್ಲಿ ಏಕೆ ಇದ್ದಾಳೆ? ಎಂದು ಪ್ರಶ್ನಿಸಿ ಅದನ್ನು ತನ್ನೊಟ್ಟಿಗೆ ಕಳುಹಿಸಿಕೊಡುವಂತೆ ಜಮದಗ್ನಿಯಲ್ಲಿ ಕೇಳುತ್ತಾನೆ. ಕಾಮಧೇನುವನ್ನು ದೇವತೆಗಳು ನನಗೆ ವರವಾಗಿ ಕೊಟ್ಟಿದ್ದಾರೆ. ಹಸ್ತಾಂತರಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ. ದೇವತೆಗಳನ್ನು ಕೇಳಿ, ಅವರು ಒಪ್ಪಿದರೆ ಕಾಮಧೇನುವನ್ನು ನಿಮ್ಮೊಟ್ಟಿಗೆ ಕಳುಹಿಸಲು ನನ್ನದೇನೂ ಅಭ್ಯಂತರವಿಲ್ಲ ಎಂದು ಜಮದಗ್ನಿ ಹೇಳುತ್ತಾನೆ. ಆಗ ಕಾರ್ತವೀರ್ಯರಾಜ ದೇವತೆಗಳ ಬಳಿ ಕೇಳಿಕೊಳ್ಳುತ್ತಾನೆ. ಆದರೆ, ದೇವತೆಗಳು ಒಪ್ಪುವುದಿಲ್ಲ. ಇದರ ಪರಿಣಾಮ ಬ್ರಹ್ಮ ಕುಲಕ್ಕೂ ಮತ್ತು ಕ್ಷತ್ರಿಯ ಕುಲಕ್ಕೂ ಸಂಘರ್ಷ ಏರ್ಪಡುತ್ತದೆ. ಕ್ಷಾತ್ರನಾದ ಕಾರ್ತವೀರ್ಯರಾಜ ಈ ಸಂಘರ್ಷದಲ್ಲಿ ಸೋಲನುಭವಿಸಿದನಾದರೂ ಆಕೆಯನ್ನು ಪಡೆಯಲೇಬೇಕೆಂಬ ಹಠ ಮಾತ್ರ ಬಿಡಲಿಲ್ಲ. ಕೃದ್ಧನಾಗಿ ಜಮದಗ್ನಿಯನ್ನು ಕೊಂದು ಕಾಮಧೇನುವನ್ನು ಹೊತ್ತೊಯ್ಯುತ್ತಾನೆ ಕಾರ್ತವೀರ್ಯರಾಜ. ಈ ವಿಚಾರವನ್ನು ರೇಣುಕಾದೇವಿ ತನ್ನ ಮಗ ಪರಶುರಾಮನಿಗೆ ತಿಳಿಸುತ್ತಾಳೆ. ಆಗ, ಪರಶುರಾಮ ಶಪಥವೊಂದನ್ನು ಮಾಡುತ್ತಾನೆ.\\n"
+                },
+                {
+                    "id": 4277191,
+                    "contents": "Kyōiku kanji\n小 光 常 堂 尺 局 居 屋 展 山 岸 岩 炭 川 工 左 功 己 改 布 希 干 刊 幼 序 店 底 府 度 座 席 庭 康 延 建 式 弓 引 強 形 役 往 径 待 律 徒 得 街 心 快 性 忠 急 恩 情 感 想 成 戸 所 手 打 投 折 技 批 招 持 指 拾 接 推 探 授 提 操 支 政 故 教 救 散 敬 文 新 方 放 旅 族 旗 日 早 明 易 昔 春 星 昨 映 昭\\n"
+                },
+                {
+                    "id": 20492372,
+                    "contents": "Ambient light sensor\nAmbient light sensor An ambient light sensor is a component in smartphones, notebooks, other mobile devices, automotive displays and LCD TVs. It is a photodetector that is used to sense the amount of ambient light present, and appropriately dim the device's screen to match it. This avoids having the screen be too bright when the user's pupils are adapted for vision in a dark room, or too dim when the device is used outdoors in the daytime. Dimming the screen on a mobile device also prolongs the lifetime of the battery. The standard international unit for the illuminance of ambient\\n"
+                },
+                {
+                    "id": 4277193,
+                    "contents": "Kyōiku kanji\n胃 留 略 病 痛 登 白 的 皇 泉 皮 皿 盛 盟 目 具 眼 矢 知 短 石 砂 破 磁 示 祭 禁 利 私 和 委 季 科 秋 秒 移 税 程 穴 究 空 立 童 竹 笑 第 笛 等 答 策 筋 算 管 箱 米 料 粉 精 糖 素 置 罪 羊 美 差 着 群 羽 翌 老 考 耕 耳 取 有 肉 服 肥 背 肺 胸 期 朝 腹 臣 自 息 至 舌 航 船 良 色 花 苦 若 英 芽 草 茶\\n"
+                },
+                {
+                    "id": 4277189,
+                    "contents": "Kyōiku kanji\n卵 承 垂 刷 重 省 看 勉 七 乳 才 予 事 二 元 亡 六 主 市 交 忘 夜 育 京 卒 商 率 就 人 化 今 仁 付 代 仕 他 令 以 合 全 任 休 件 仲 作 何 位 住 余 低 似 命 使 念 例 供 信 保 便 値 修 借 候 倍 俳 俵 健 停 働 像 先 入 八 分 公 共 弟 並 典 前 益 善 尊 同 周 次 兆 冷 弱 刀 切 別 判 制 券 刻 副 割 力 加\\n"
+                },
+                {
+                    "id": 8089725,
+                    "contents": "Evolution of the eye\nEvolution of the eye Many researchers have found the evolution of the eye attractive to study, because the eye distinctively exemplifies an analogous organ found in many animal forms. Simple light detection is found in bacteria, single-celled organisms, plants and animals. Complex, image-forming eyes have evolved independently several times. Complex eyes appeared first within the few million years of the Cambrian explosion. From before the Cambrian, no evidence of eyes has survived, but diverse eyes are known from the Burgess shale of the Middle Cambrian, and from the slightly older Emu Bay Shale. Eyes are adapted to the various requirements\\n"
+                }
+            ],
+            "pred": "Simple light detection  事件已经结束，无法回答此问题。但是根据文档的内容，简单光线检测是进化过程中的第一步。 由于事件已结束，因此无法进行回答。 请告知是否需要继续以其他方式提供答案。 事件已结束，无法回答此问题 。 但是根据提供的信息，简单光线检测是眼睛进化的第一步。 事件已结束，无法回答此问题。 根据文档的内容， 简单光线检测是进化过程中的第一步。 事件已结束，无法回答此问题。 根据文档的内容，简单光线检测是眼睛进化的 第一步。 事件已结束，无法回答此问题。 根据文档的内容，简单光线检测是眼睛进化的第一步。 事件已结束， 无法回答此问题。 根据文档的内容，简单光线检测是眼睛进化的第一步。 事件已结束，无法回答此问题。 根 据文档的内容，简单光线检测是眼睛进化的第一步。 事件已结束，无法回答此问题。 根据文档的内容，简单光线检测 是眼睛进化的第一步。 事件已结束，无法回答此问题。 根据文档的内容，简单光线检测是眼睛进化的第一步。",
+            "raw_pred": "Simple light detection  事件已经结束，无法回答此问题。但是根据文档的内容，简单光线检测是进化过程中的第一步。 由于事件已结束，因此无法进行回答。 请告知是否需要继续以其他方式提供答案。 事件已结束，无法回答此问题 。 但是根据提供的信息，简单光线检测是眼睛进化的第一步。 事件已结束，无法回答此问题。 根据文档的内容， 简单光线检测是进化过程中的第一步。 事件已结束，无法回答此问题。 根据文档的内容，简单光线检测是眼睛进化的 第一步。 事件已结束，无法回答此问题。 根据文档的内容，简单光线检测是眼睛进化的第一步。 事件已结束， 无法回答此问题。 根据文档的内容，简单光线检测是眼睛进化的第一步。 事件已结束，无法回答此问题。 根 据文档的内容，简单光线检测是眼睛进化的第一步。 事件已结束，无法回答此问题。 根据文档的内容，简单光线检测 是眼睛进化的第一步。 事件已结束，无法回答此问题。 根据文档的内容，简单光线检测是眼睛进化的第一步。",
+            "metric_score": {
+                "em": 0.0,
+                "f1": 0.06060606060606061,
+                "acc": 0.0
+            }
+        }
+    },
+    {
+        "id": "test_16",
+        "question": "where is the tv show the curse of oak island filmed",
+        "golden_answers": [
+            "Oak Island"
+        ],
+        "output": {
+            "retrieval_result": [
+                {
+                    "id": 6799133,
+                    "contents": "Uppar\nಕಾಮಧೇನು. ಆ ಕಾಮಧೇನುವೇ ಅರಸ ಮತ್ತು ಆತನ ಸೈನ್ಯಕ್ಕೆ ಪುಷ್ಕಳ ಭೋಜನ ನೀಡಿದ್ದನ್ನು ಆತ ಜಮದಗ್ನಿಯಿಂದ ತಿಳಿದುಕೊಳ್ಳುತ್ತಾನೆ. ಈ ಸಂದರ್ಭದಲ್ಲಿ ಕಾಮಧೇನುವಿನ ಬಗ್ಗೆ ಆಸಕ್ತಿ ತಾಳಿದ ಕಾರ್ತವೀರ್ಯ ರಾಜ, ಇಂತಹ ಕಾಮಧೇನು ಅರಮನೆಯಲ್ಲಿ ಚಕ್ರವರ್ತಿಗಳ ಬಳಿ ಇರಬೇಕಾದವಳು ಕಾಡಿನಲ್ಲಿ ಏಕೆ ಇದ್ದಾಳೆ? ಎಂದು ಪ್ರಶ್ನಿಸಿ ಅದನ್ನು ತನ್ನೊಟ್ಟಿಗೆ ಕಳುಹಿಸಿಕೊಡುವಂತೆ ಜಮದಗ್ನಿಯಲ್ಲಿ ಕೇಳುತ್ತಾನೆ. ಕಾಮಧೇನುವನ್ನು ದೇವತೆಗಳು ನನಗೆ ವರವಾಗಿ ಕೊಟ್ಟಿದ್ದಾರೆ. ಹಸ್ತಾಂತರಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ. ದೇವತೆಗಳನ್ನು ಕೇಳಿ, ಅವರು ಒಪ್ಪಿದರೆ ಕಾಮಧೇನುವನ್ನು ನಿಮ್ಮೊಟ್ಟಿಗೆ ಕಳುಹಿಸಲು ನನ್ನದೇನೂ ಅಭ್ಯಂತರವಿಲ್ಲ ಎಂದು ಜಮದಗ್ನಿ ಹೇಳುತ್ತಾನೆ. ಆಗ ಕಾರ್ತವೀರ್ಯರಾಜ ದೇವತೆಗಳ ಬಳಿ ಕೇಳಿಕೊಳ್ಳುತ್ತಾನೆ. ಆದರೆ, ದೇವತೆಗಳು ಒಪ್ಪುವುದಿಲ್ಲ. ಇದರ ಪರಿಣಾಮ ಬ್ರಹ್ಮ ಕುಲಕ್ಕೂ ಮತ್ತು ಕ್ಷತ್ರಿಯ ಕುಲಕ್ಕೂ ಸಂಘರ್ಷ ಏರ್ಪಡುತ್ತದೆ. ಕ್ಷಾತ್ರನಾದ ಕಾರ್ತವೀರ್ಯರಾಜ ಈ ಸಂಘರ್ಷದಲ್ಲಿ ಸೋಲನುಭವಿಸಿದನಾದರೂ ಆಕೆಯನ್ನು ಪಡೆಯಲೇಬೇಕೆಂಬ ಹಠ ಮಾತ್ರ ಬಿಡಲಿಲ್ಲ. ಕೃದ್ಧನಾಗಿ ಜಮದಗ್ನಿಯನ್ನು ಕೊಂದು ಕಾಮಧೇನುವನ್ನು ಹೊತ್ತೊಯ್ಯುತ್ತಾನೆ ಕಾರ್ತವೀರ್ಯರಾಜ. ಈ ವಿಚಾರವನ್ನು ರೇಣುಕಾದೇವಿ ತನ್ನ ಮಗ ಪರಶುರಾಮನಿಗೆ ತಿಳಿಸುತ್ತಾಳೆ. ಆಗ, ಪರಶುರಾಮ ಶಪಥವೊಂದನ್ನು ಮಾಡುತ್ತಾನೆ.\\n"
+                },
+                {
+                    "id": 191039,
+                    "contents": "Island\nIsland An island or isle is any piece of sub-continental land that is surrounded by water. Very small islands such as emergent land features on atolls can be called islets, skerries, cays or keys. An island in a river or a lake island may be called an eyot or ait, and a small island off the coast may be called a holm. A grouping of geographically or geologically related islands is called an archipelago, such as the Philippines. An island may be described as such, despite the presence of an artificial land bridge; examples are Singapore and its causeway, and\\n"
+                },
+                {
+                    "id": 5324896,
+                    "contents": "User (telecommunications)\na responsible individual. User (telecommunications) In telecommunications, a user is a person, organization, or other entity that employs the services provided by a telecommunication system, or by an information processing system, for transfer of information. A user functions as a source or final destination of user information, or both. A user \"may\" also be the subscriber, i.e. the customer paying for the service. User is also a person or process accessing an AIS by direct connections (e.g., via terminals) or indirect connections. \"Indirect connection\" relates to persons who prepare input data or receive output that is not reviewed for content\\n"
+                },
+                {
+                    "id": 509853,
+                    "contents": "Oak\nOak An oak is a tree or shrub in the genus Quercus (; Latin \"oak tree\") of the beech family, Fagaceae. There are approximately 600 extant species of oaks. The common name \"oak\" also appears in the names of species in related genera, notably \"Lithocarpus\" (stone oaks), as well as in those of unrelated species such as \"Grevillea robusta\" (silky oaks) and the Casuarinaceae (she-oaks). The genus \"Quercus\" is native to the Northern Hemisphere, and includes deciduous and evergreen species extending from cool temperate to tropical latitudes in the Americas, Asia, Europe, and North Africa. North America contains the largest\\n"
+                },
+                {
+                    "id": 17771462,
+                    "contents": "The Curse of Oak Island\nThe Curse of Oak Island The Curse of Oak Island is an active reality television series that first premiered in Canada on the History network on January 5, 2014. The show features what is known as the Oak Island mystery, showing efforts to search for historical artifacts and treasure. \"The Curse of Oak Island\" follows brothers Marty and Rick Lagina, originally from Kingsford, Michigan, through their efforts to find the speculated treasure or historical artifacts believed to be on Oak Island. The series discusses the history of the island, recent discoveries, theories, and prior attempts to investigate the site. Areas\\n"
+                }
+            ],
+            "pred": "Oak Island  user      ",
+            "raw_pred": "Oak Island  user      ",
+            "metric_score": {
+                "em": 0.0,
+                "f1": 0.8,
+                "acc": 1.0
+            }
+        }
+    }
+]
