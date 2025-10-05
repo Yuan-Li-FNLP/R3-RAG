@@ -1,7 +1,7 @@
 # R3-RAG: Learning Step-by-Step Reasoning and Retrieval for LLMs via Reinforcement Learning
 
 [![arXiv](https://img.shields.io/badge/arXiv-2505.23794-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2505.23794)
-[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/release/python-380/)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/release/python-3100/)
 [![License](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ## 📖 Overview
