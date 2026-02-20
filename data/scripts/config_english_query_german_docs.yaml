@@ -1,0 +1,121 @@
+# R3-RAG配置：英语查询 → 德语文档检索
+# 使用多语言Embedding模型实现跨语言检索
+
+# ============================================
+# 检索器配置 (Retriever Config)
+# ============================================
+retriever_config:
+  # 使用多语言Embedding模型（关键！）
+  retrieval_method: "e5"
+
+  # 推荐的多语言模型（按性能排序）
+  # 选项1: 最佳性能（推荐）
+  model_path: "intfloat/multilingual-e5-large"
+
+  # 选项2: 平衡性能和速度
+  # model_path: "intfloat/multilingual-e5-base"
+
+  # 选项3: 轻量级（速度快，精度略低）
+  # model_path: "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
+
+  # 索引路径
+  index_path: "../../indexes/tum_multilingual"
+
+  # 检索参数
+  top_k: 5  # 返回top-5结果
+  batch_size: 32
+  max_length: 512
+
+  # E5模型需要的instruction（英语查询）
+  query_instruction: "query: "  # E5模型要求的前缀
+
+  # 是否使用FP16加速（如果有GPU）
+  use_fp16: true
+
+# ============================================
+# 语料库配置 (Corpus Config)
+# ============================================
+corpus_config:
+  # 语料库路径
+  corpus_path: "../corpus/tum_courses_corpus.jsonl"
+
+  # 文档格式
+  # 确保每个文档都包含德语和英语内容（如果有）
+  # 格式: {"id": "IN2064", "contents": "IN2064 - Introduction to AI / Einführung in die KI\n..."}
+
+  # 文档粒度
+  granularity: "course"  # course | section | material
+
+# ============================================
+# 生成器配置 (Generator Config)
+# ============================================
+generator_config:
+  # LLM模型（用于生成答案）
+  model_path: "meta-llama/Llama-3.1-8B-Instruct"
+
+  # 或使用其他模型
+  # model_path: "Qwen/Qwen2.5-7B-Instruct"
+
+  # 生成参数
+  max_new_tokens: 256
+  temperature: 0.7
+  top_p: 0.9
+
+  # 系统提示（可以用英语）
+  system_prompt: |
+    You are a helpful TUM course advisor assistant.
+    Answer questions about TUM courses based on the provided documents.
+    The documents may be in German, but you should answer in English.
+    If you're not sure, say so.
+
+# ============================================
+# 推理配置 (Inference Config)
+# ============================================
+inference_config:
+  # 检索增强生成流程
+  pipeline: "R3-RAG"  # 使用R3-RAG的强化学习策略
+
+  # 最大检索步数
+  max_retrieval_steps: 3
+
+  # 每步检索的文档数
+  passages_per_retrieval: 3
+
+  # 是否在prompt中包含检索到的文档
+  include_retrieved_docs: true
+
+  # 答案语言（始终用英语回答）
+  answer_language: "en"
+
+# ============================================
+# 跨语言检索说明
+# ============================================
+# 如何工作:
+# 1. 用户输入英语查询: "What are the prerequisites for AI course?"
+# 2. Multilingual-E5模型将查询编码为向量
+# 3. 在FAISS索引中搜索最相似的文档（即使文档是德语）
+# 4. 检索到德语文档: "Voraussetzungen: Lineare Algebra, Informatik Grundlagen"
+# 5. LLM基于德语文档生成英语答案: "The prerequisites are Linear Algebra and Computer Science Fundamentals"
+
+# 重要提示:
+# - 必须使用支持多语言的Embedding模型（如multilingual-e5）
+# - 普通的英语模型（如e5-base-v2）无法做到跨语言检索
+# - 文档最好同时包含德语和英语内容（标题、关键术语等）
+
+# ============================================
+# 测试示例
+# ============================================
+test_queries:
+  - query: "What are the prerequisites for the AI course?"
+    expected_course: "IN2064"
+    expected_info: "Prerequisites information"
+
+  - query: "How many ECTS credits is the database course?"
+    expected_course: "IN2118"
+    expected_info: "ECTS credits"
+
+  - query: "Which courses are offered in winter semester?"
+    expected_info: "List of WS courses"
+
+  - query: "Tell me about the machine learning lecture"
+    expected_info: "ML course description"

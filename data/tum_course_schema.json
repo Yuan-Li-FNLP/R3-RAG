@@ -1,0 +1,75 @@
+{
+  "schema_version": "1.0",
+  "description": "TUM Course Knowledge Base Schema for R3-RAG",
+
+  "course": {
+    "id": "string (unique identifier, e.g., IN2064)",
+    "source": "string (tumonline|moodle|handbook|fpso)",
+    "last_updated": "ISO8601 timestamp",
+    "language": "string (de|en|mixed)",
+
+    "basic_info": {
+      "course_code": "string (e.g., IN2064)",
+      "title_de": "string (Einführung in die Künstliche Intelligenz)",
+      "title_en": "string (Introduction to Artificial Intelligence)",
+      "ects": "integer (6)",
+      "sws": "integer (4)",
+      "semester": "array [WS|SS]",
+      "language": "array [English, German]",
+      "lecturer": "string (Prof. Dr. XXX)",
+      "module_type": "string (Pflichtmodul|Wahlmodul|Seminar)"
+    },
+
+    "academic_info": {
+      "prerequisites": {
+        "mandatory": ["array of course_codes"],
+        "recommended": ["array of course_codes"]
+      },
+      "learning_outcomes": "array of strings",
+      "assessment": {
+        "type": "string (written_exam|oral_exam|project|seminar)",
+        "duration": "string (90 minutes)",
+        "weight": "string (100%)"
+      },
+      "recommended_books": ["array of book titles"]
+    },
+
+    "materials": {
+      "lecture_slides": [
+        {
+          "title": "string",
+          "file_path": "string",
+          "file_type": "pdf|pptx",
+          "upload_date": "ISO8601",
+          "extracted_text": "string (for RAG indexing)"
+        }
+      ],
+      "exercises": ["similar structure"],
+      "syllabus": "string (full text)",
+      "reading_materials": ["array"]
+    },
+
+    "metadata": {
+      "degree_programs": ["Bachelor Informatik", "Master AI"],
+      "module_group": "string (Kernmodul|Vertiefungsmodul)",
+      "difficulty_rating": "float (1-5, optional)",
+      "workload_hours": "integer (estimated total hours)",
+      "exam_dates": ["array of past exam dates"]
+    }
+  },
+
+  "degree_program": {
+    "id": "string (e.g., BSc_Informatik_2023)",
+    "name_de": "Bachelor Informatik",
+    "name_en": "Bachelor Computer Science",
+    "fpso_version": "string (2023)",
+    "total_ects_required": "integer (180)",
+    "module_groups": [
+      {
+        "group_name": "string (Kernmodule)",
+        "ects_required": "integer (60)",
+        "courses": ["array of course_codes"]
+      }
+    ]
+  }
+}
